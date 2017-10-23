@@ -27,15 +27,24 @@ Body tags
 
 */
 
-.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 1px solid #13818D; background-color:#fff; padding-bottom: 0px; margin-bottom: 5px; }
+.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 1px solid #dddddd; background-color:#fff; padding-bottom: 0px; margin-bottom: 5px; }
 
 .title {border-radius: 25px 25px 0px 0px;font-size: 1.3em; background-color:#13818D; padding:4px; }
 
-.text { padding: 4px;
+.text { padding:10px;
 
-color:  #000000;
+color: #515151;
 
 }
+
+.ass2 { 
+
+padding:10px;
+border-radius: 25px 25px 0px 0px;
+color: #515151;
+
+}
+
 
 .ass { 
 
