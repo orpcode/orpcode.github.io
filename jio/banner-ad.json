@@ -1,4 +1,6 @@
-{
+
+[
+  {
 
   "id":"1",
   "banner_photo_link":"http://www.jio.com/special-partner-offer-desktop.jpg",
@@ -8,4 +10,4 @@
   "expire_time":"Expire Time"
   
 }
- 
+ ]
