@@ -8,7 +8,14 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 52",
   "plan_validity":"Validity: 7 Days",
-  "plan_details":"SMS: 70, Data: 1.05 GB, Daily Limit 0.15MB, Phone Call: Unlimited",
+  "plan_details":"  SMS: 70
+
+ DATA: 1.05 GB, Daily Limit: 0.15MB
+
+PHONE CALL: Unlimited
+
+JIO APPS SUBSCRIPTION: Free
+",
   "plan_extra_info":"Room Booked",
   "plan_discount_price":"",
   "plan_recharge_link":""
