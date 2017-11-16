@@ -10,7 +10,7 @@
   "plan_validity":"Validity: 1 Day",
   "plan_details":"  SMS: 20 (Total)
 
-  DATA: 0.15 GB, Daily limit: 0.15 GB
+  DATA: 0.15 GB | Daily limit: 0.15 GB
 
   PHONE CALL: Unlimited to any network
 
@@ -31,7 +31,7 @@
   "plan_validity":"Validity: 7 Days",
   "plan_details":"  SMS: 70 (Total)
 
-  DATA: 1.05 GB, Daily limit: 0.15 GB
+  DATA: 1.05 GB | Daily limit: 0.15 GB
 
   PHONE CALL: Unlimited to any network
 
@@ -52,7 +52,49 @@
   "plan_validity":"Validity: 14 Days",
   "plan_details":"  SMS: 140 (Total)
 
-  DATA: 2.1 GB, Daily limit: 0.15 GB
+  DATA: 2.1 GB | Daily limit: 0.15 GB
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+ {
+  "id":"4",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 149",
+  "plan_validity":"Validity: 28 Days",
+  "plan_details":"  SMS: 300 (Total)
+
+  DATA: 4.2 GB | Daily limit: 0.15 GB
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"5",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 309",
+  "plan_validity":"Validity: 49 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 49 GB | 1 GB / Day
 
   PHONE CALL: Unlimited to any network
 
