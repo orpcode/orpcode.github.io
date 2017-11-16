@@ -103,6 +103,195 @@
   "plan_discount_price":"",
   "plan_recharge_link":""
   
+   },
+
+{
+  "id":"6",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 399",
+  "plan_validity":"Validity: 70 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 70 GB | 1 GB / Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"7",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 459",
+  "plan_validity":"Validity: 84 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 84 GB | 1 GB / Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"8",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 499",
+  "plan_validity":"Validity: 91 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 91 GB | 1 GB / Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"9",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 509",
+  "plan_validity":"Validity: 49 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 98 GB | 2 GB / Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"10",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 799",
+  "plan_validity":"Validity: 28 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 84 GB | 3 GB / Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"11",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 999",
+  "plan_validity":"Validity: 90 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 60 GB
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"12",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 1999",
+  "plan_validity":"Validity: 180 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 125 GB
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"13",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 4999",
+  "plan_validity":"Validity: 360 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 360 GB
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+
+{
+  "id":"14",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 9999",
+  "plan_validity":"Validity: 360 Days",
+  "plan_details":"  SMS: 100 / Day
+
+  DATA: 750 GB
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
    }
 
  ]     
