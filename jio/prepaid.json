@@ -292,6 +292,21 @@
   "plan_discount_price":"",
   "plan_recharge_link":""
   
+   },
+ 
+ {
+  "id":"15",
+  "network_name":"Jio",
+  "plan_update_on":"22 Oct 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"- - -",
+  "plan_validity":"-",
+  "plan_details":"No other plans found!",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
    }
 
  ]     
