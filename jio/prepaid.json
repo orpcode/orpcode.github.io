@@ -92,7 +92,7 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 309",
   "plan_validity":"Validity: 49 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
   DATA: 49 GB | 1 GB / Per Day
 
@@ -113,7 +113,7 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 399",
   "plan_validity":"Validity: 70 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
   DATA: 70 GB | 1 GB / Per Day
 
@@ -134,9 +134,9 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 459",
   "plan_validity":"Validity: 84 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
-  DATA: 84 GB | 1 GB / Day
+  DATA: 84 GB | 1 GB / Per Day
 
   PHONE CALL: Unlimited to any network
 
@@ -155,9 +155,9 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 499",
   "plan_validity":"Validity: 91 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
-  DATA: 91 GB | 1 GB / Day
+  DATA: 91 GB | 1 GB / Per Day
 
   PHONE CALL: Unlimited to any network
 
@@ -176,9 +176,9 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 509",
   "plan_validity":"Validity: 49 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
-  DATA: 98 GB | 2 GB / Day
+  DATA: 98 GB | 2 GB / Per Day
 
   PHONE CALL: Unlimited to any network
 
@@ -197,9 +197,9 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 799",
   "plan_validity":"Validity: 28 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
-  DATA: 84 GB | 3 GB / Day
+  DATA: 84 GB | 3 GB / Per Day
 
   PHONE CALL: Unlimited to any network
 
@@ -218,9 +218,9 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 999",
   "plan_validity":"Validity: 90 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
-  DATA: 60 GB
+  DATA: 60 GB (Total)
 
   PHONE CALL: Unlimited to any network
 
@@ -239,9 +239,9 @@
   "plan_name":"Monthly",
   "plan_price":"Rs. 1999",
   "plan_validity":"Validity: 180 Days",
-  "plan_details":"  SMS: 100 / Day
+  "plan_details":"  SMS: 100 / Per Day
 
-  DATA: 125 GB
+  DATA: 125 GB (Total)
 
   PHONE CALL: Unlimited to any network
 
@@ -262,7 +262,7 @@
   "plan_validity":"Validity: 360 Days",
   "plan_details":"  SMS: 100 / Day
 
-  DATA: 360 GB
+  DATA: 360 GB (Total)
 
   PHONE CALL: Unlimited to any network
 
@@ -300,7 +300,7 @@
   "plan_update_on":"22 Oct 2017 - 12.00 AM",
   "plan_source_link":"www.jio.com",
   "plan_name":"Monthly",
-  "plan_price":"- - -",
+  "plan_price":"Rate US on Google PlayStore",
   "plan_validity":"-",
   "plan_details":"No other plans found!",
   "plan_extra_info":"Room Booked",
