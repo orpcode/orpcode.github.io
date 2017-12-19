@@ -6,7 +6,7 @@ max-width: 800px;
 
 margin: 1px auto;
 
-padding: 8px; 
+padding: 6px; 
 
 font-family: Arial, sans-serif;
 
@@ -27,7 +27,7 @@ Body tags
 
 */
 
-.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#fff; padding-bottom: 0px; margin-bottom: 5px; }
+.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#fff; padding-bottom: 0px; margin-bottom: 8px; }
 
 .title {border-radius: 25px 25px 0px 0px; background-color:#ffffff; color:#000000; padding-left:18px; padding-top:18px; padding-bottom:8px; font-size: 1.3em;}
 
