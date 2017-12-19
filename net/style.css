@@ -33,7 +33,7 @@ Body tags
 
 .text { padding-left:12px;
 padding-right:10px;
-padding-bottom:1px;
+padding-bottom:4px;
 color: #515151;
 font-size: 1.0em;
 }
@@ -48,8 +48,8 @@ color: #515151;
 
 
 .v { 
-padding-top:3px;
-padding-bottom:3px;
+padding-top:4px;
+padding-bottom:4px;
   background-color:#dddddd;
 border-radius: 0px 0px 20px 20px;
 color: #515151;
