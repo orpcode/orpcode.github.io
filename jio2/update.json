@@ -1,11 +1,11 @@
 { 
  "updateTriger":"1",
- "updateTitle":"Importent Notice",
- "updateMsg":"Our app face some technical issue. We are adding new update version off this app.",
+ "updateTitle":"Softwere Update",
+ "updateMsg":"Download new version, old version no longer supported.\nApp Size: 2 MB\n Version: 1.0.2",
  "updateButtonName":"Close App",
  "appName":"Jio Recharge Plans",
- "appVersion":"1.0.0",
- "versionUpLevel":"90",
+ "appVersion":"1.0.2",
+ "versionUpLevel":"102",
  "bugFixMsg":"Bug Fix info",
  "updateLink":"http://orpcode.github.io" 
 } 
