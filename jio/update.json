@@ -1,2 +1,12 @@
-{ "updateTriger":"1", "updateTitle":"Importent Notice", "updateMsg":"Our app face some technical issue. We are adding new update version off this app.", "updateButtonName":"Close App", "appName":"Jio Recharge Plans", "appVersion":"1.0.0", "versionUpLevel":"90", "bugFixMsg":"Bug Fix info", "updateLink":"http://orpcode.github.io" } 
+{ 
+ "updateTriger":"1",
+ "updateTitle":"Importent Notice",
+ "updateMsg":"Our app face some technical issue. We are adding new update version off this app.",
+ "updateButtonName":"Close App",
+ "appName":"Jio Recharge Plans",
+ "appVersion":"1.0.0",
+ "versionUpLevel":"90",
+ "bugFixMsg":"Bug Fix info",
+ "updateLink":"http://orpcode.github.io" 
+} 
  
