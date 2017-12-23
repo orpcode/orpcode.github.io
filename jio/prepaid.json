@@ -83,6 +83,48 @@
   "plan_recharge_link":""
   
    },
+ 
+  {
+  "id":"199",
+  "network_name":"Jio",
+  "plan_update_on":"23 Dec 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 199",
+  "plan_validity":"Validity: 28 Days",
+  "plan_details":"  SMS: 100 / Per Day
+
+  DATA: 33.6 GB | 1.2 GB / Per Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
+ 
+  {
+  "id":"199",
+  "network_name":"Jio",
+  "plan_update_on":"23 Dec 2017 - 12.00 AM",
+  "plan_source_link":"www.jio.com",
+  "plan_name":"Monthly",
+  "plan_price":"Rs. 299",
+  "plan_validity":"Validity: 28 Days",
+  "plan_details":"  SMS: 100 / Per Day
+
+  DATA: 56 GB | 2 GB / Per Day
+
+  PHONE CALL: Unlimited to any network
+
+  JIO APPS: Free subscription",
+  "plan_extra_info":"Room Booked",
+  "plan_discount_price":"",
+  "plan_recharge_link":""
+  
+   },
 
 {
   "id":"5",
