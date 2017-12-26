@@ -6,9 +6,9 @@ max-width: 800px;
 
 margin: 1px auto;
 
-padding: 6px; 
+padding: 8px; 
 
-font-family: Arial, sans-serif;
+font-family: Arial;
 
 background: #ffffff;
 
@@ -27,7 +27,7 @@ Body tags
 
 */
 
-.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#fff; padding-bottom: 0px; margin-bottom: 8px; }
+.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#ffffff; padding-bottom: 0px; margin-bottom: 8px; }
 
 .title {border-radius: 25px 25px 0px 0px; background-color:#ffffff; color:#000000; padding-left:16px; padding-top:16px; padding-bottom:8px; font-size: 1.1em;}
 
