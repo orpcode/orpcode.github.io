@@ -1,24 +1,16 @@
 /* CSS Document */
 
 body {
-
 max-width: 800px;
-
 margin: 1px auto;
-
 padding: 8px; 
-
-font-family: Arial;
-
 background: #ffffff;
-
 }
 
 .bottom { 
 padding-top: 6px;
 padding-bottom: 6px;
-
- border-bottom: 1px solid #ededed;
+border-bottom: 1px solid #ededed;
 }
 
  /* 
@@ -32,10 +24,9 @@ Body tags
 .title {border-radius: 25px 25px 0px 0px; background-color:#ffffff; color:#000000; padding-left:16px; padding-top:16px; padding-bottom:8px; font-size: 1.3em;}
 
 .text { padding-left:12px;
-padding-right:10px;
-padding-bottom:4px;
-color: #515151;
-font-size: 1.1em;
+     padding-right:10px;
+     padding-bottom:4px;
+     color: #515151;
 }
 
 .ass2 { 
