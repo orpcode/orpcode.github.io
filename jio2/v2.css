@@ -2,42 +2,38 @@ body {
 max-width: 800px;
 margin: 1px auto;
 padding: 6px; 
-background: #ffffff;
 font-family:Sans-Serif;
 }
 
 .border-all {
-   border: 1px solid #dddddd;
-   background-color:#ffffff;
- 
+  border: 1px solid #dddddd;
 }
 
 .heading { 
-padding:4px;
-background-color:#dddddd;
+   padding:4px;
+   background-color:#dddddd;
 }
 
 
-.plan-border {
+.plan-detail-box {
  border-radius: 25px 25px 25px 25px;
- color: #ffffff;
- border: 3px solid #dddddd;
- background-color:#ffffff;
+ border: 3px solid #bfdfff;
  padding-bottom: 0px;
- margin:15px;
+ margin:20px;
  }
 
 .plan-title {
- border-radius: 25px 25px 0px 0px;
- background-color:#ffffff;
- color:#000000;
- padding-left:16px;
- padding-top:16px;
- padding-bottom:8px;
- font-size: 1.2em;
+ font-size: 18px;
+ font-weight: bold;
+ border-radius: 22px 22px 0px 0px;
+ background-color: #e6f0fa;
+ padding-top:10px;
+ padding-bottom:10px;
  }
 
 .plan-text {
+ font-size: 18px;
+     padding-top:4px;
      padding-left:10px;
      padding-right:10px;
      padding-bottom:4px;
@@ -45,11 +41,12 @@ background-color:#dddddd;
 }
 
 .plan-validity { 
-padding-top:4px;
-padding-bottom:4px;
-background-color:#dddddd;
-border-radius: 0px 0px 20px 20px;
-color: #000000;
+ font-size: 18px;
+ font-weight: normal;
+ border-radius: 0px 0px 22px 22px;
+ background-color: #e6f0fa;
+ padding-top:10px;
+ padding-bottom:10px;
 }
 
 span { 
@@ -69,7 +66,7 @@ color: #243988;
 
 h2 {
 font-size: 1.1em;
-color: #243988;
+color: #515151;
 }
 
 h3 {
