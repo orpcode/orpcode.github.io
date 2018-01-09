@@ -1,13 +1,13 @@
 body {
-max-width: 800px;
-margin: 1px auto;
-padding: 6px; 
-font-family:Sans-Serif;
+  max-width: 800px;
+  margin: 1px auto;
+  padding: 6px; 
+  font-family:Sans-Serif;
  background-color: #ffffff;
 }
 
 .border-all {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
 }
 
 .heading { 
