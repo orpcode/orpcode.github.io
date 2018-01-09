@@ -18,7 +18,6 @@ body {
    background-color:#dddddd;
 }
 
-
 .plan-detail-box {
  background-color: #ffffff;
  border-radius: 25px 25px 25px 25px;
@@ -40,7 +39,7 @@ body {
  }
 
 .plan-text {
- font-size: 18px;
+     font-size: 18px;
      padding-top:4px;
      padding-left:10px;
      padding-right:10px;
