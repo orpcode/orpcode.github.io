@@ -3,6 +3,7 @@ max-width: 800px;
 margin: 1px auto;
 padding: 6px; 
 font-family:Sans-Serif;
+ background-color: #ffffff;
 }
 
 .border-all {
@@ -16,6 +17,7 @@ font-family:Sans-Serif;
 
 
 .plan-detail-box {
+ background-color: #ffffff;
  border-radius: 25px 25px 25px 25px;
  border: 3px solid #bfdfff;
  padding-bottom: 0px;
