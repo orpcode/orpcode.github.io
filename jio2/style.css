@@ -8,7 +8,7 @@ body {
 
 .border-all {
   border: 2px solid #dddddd;
-  margin-bottom:10px;
+  margin-bottom:15px;
 }
 
 .heading { 
@@ -29,7 +29,7 @@ body {
  }
 
 .plan-title {
- font-size: 19px;
+ font-size: 20px;
  font-weight: bold;
  border-radius: 22px 22px 0px 0px;
  /* background-color: #e6f0fa; */
