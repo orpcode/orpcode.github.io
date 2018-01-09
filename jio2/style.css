@@ -89,7 +89,7 @@ h1 {
 
 font-size: 2.2em;
 
-color: #ffffff;
+color: #243988;
 
 }
 
@@ -97,14 +97,14 @@ h2 {
 
 font-size: .7em;
 
-color: #fff; 
+color: #243988;
 
 }
 
 h3 {
 
-font-size: 1.4em;
-
+font-size: 1.3em;
+color: #243988;
 }
 
 
@@ -112,9 +112,6 @@ font-size: 1.4em;
 p {
 
 font-size: 1.1em;
-
- 
-
 }
 
 .lefttext {
