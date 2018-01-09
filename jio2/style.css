@@ -1,4 +1,3 @@
-/* CSS Document */
 
 body {
 max-width: 800px;
@@ -12,12 +11,6 @@ padding-top: 6px;
 padding-bottom: 6px;
 border-bottom: 1px solid #ededed;
 }
-
- /* 
-
-Body tags 
-
-*/
 
 .all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#ffffff; padding-bottom: 0px; margin-bottom:10px; }
 
