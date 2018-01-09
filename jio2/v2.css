@@ -10,48 +10,22 @@ background: #ffffff;
 
 .title {border-radius: 25px 25px 0px 0px; background-color:#ffffff; color:#000000; padding-left:16px; padding-top:16px; padding-bottom:8px; font-size: 1.2em;}
 
-.text { padding-left:10px;
+.text {
+     padding-left:10px;
      padding-right:10px;
      padding-bottom:4px;
      color: #515151;
 }
 
-.ass2 { 
-
-padding:10px;
-border-radius: 25px 25px 0px 0px;
-color: #515151;
-
-}
-.new {
-color:red;
-padding-right:20px;
-padding-bottom:2px;
-}
-
-.v { 
+.validity { 
 padding-top:4px;
 padding-bottom:4px;
-  background-color:#dddddd;
+background-color:#dddddd;
 border-radius: 0px 0px 20px 20px;
 color: #000000;
-
 }
 
-.heading2 {
-
-padding:4px;
-color: #515151;
-/*  color: #CC9119; */
-
-}
-
-.heading {
-padding:4px;background-color:#ededed;
-color: #cc9119;
-}
-
- span { 
+span { 
 font-weight: bold;
 color: #243988;
 }
