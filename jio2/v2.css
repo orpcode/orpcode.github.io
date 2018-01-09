@@ -1,29 +1,50 @@
 body {
 max-width: 800px;
 margin: 1px auto;
-padding: 10px; 
+padding: 6px; 
 background: #ffffff;
+font-family:Sans-Serif;
 }
 
 .border-all {
-     border: 1px solid #dddddd;
-     background-color:#ffffff;
-    margin:4px;
+   border: 1px solid #dddddd;
+   background-color:#ffffff;
+ 
+}
+
+.heading { 
+padding:4px;
+background-color:#dddddd;
 }
 
 
-.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#ffffff; padding-bottom: 0px; margin-bottom:10px; }
+.plan-border {
+ border-radius: 25px 25px 25px 25px;
+ color: #ffffff;
+ border: 3px solid #dddddd;
+ background-color:#ffffff;
+ padding-bottom: 0px;
+ margin:15px;
+ }
 
-.title {border-radius: 25px 25px 0px 0px; background-color:#ffffff; color:#000000; padding-left:16px; padding-top:16px; padding-bottom:8px; font-size: 1.2em;}
+.plan-title {
+ border-radius: 25px 25px 0px 0px;
+ background-color:#ffffff;
+ color:#000000;
+ padding-left:16px;
+ padding-top:16px;
+ padding-bottom:8px;
+ font-size: 1.2em;
+ }
 
-.text {
+.plan-text {
      padding-left:10px;
      padding-right:10px;
      padding-bottom:4px;
      color: #515151;
 }
 
-.validity { 
+.plan-validity { 
 padding-top:4px;
 padding-bottom:4px;
 background-color:#dddddd;
@@ -38,7 +59,6 @@ color: #243988;
 
 /* Head Tags */
 h1, h2, h3 { 
-font-family:Sans-Serif;
 font-weight: bold;
 }
 
@@ -48,7 +68,7 @@ color: #243988;
 }
 
 h2 {
-font-size: 1.0em;
+font-size: 1.1em;
 color: #243988;
 }
 
