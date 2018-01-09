@@ -11,7 +11,9 @@ font-family:Sans-Serif;
 }
 
 .heading { 
-   padding:4px;
+   padding-left: 16px;
+   padding-top:4px;
+   padding-bottom:4px;
    background-color:#dddddd;
 }
 
@@ -21,7 +23,7 @@ font-family:Sans-Serif;
  border-radius: 25px 25px 25px 25px;
  border: 3px solid #bfdfff;
  padding-bottom: 0px;
- margin:20px;
+ margin:15px;
  }
 
 .plan-title {
@@ -29,6 +31,7 @@ font-family:Sans-Serif;
  font-weight: bold;
  border-radius: 22px 22px 0px 0px;
  background-color: #e6f0fa;
+  padding-left:16px;
  padding-top:10px;
  padding-bottom:10px;
  }
@@ -68,7 +71,7 @@ color: #243988;
 
 h2 {
 font-size: 1.1em;
-color: #515151;
+color: #243988;
 }
 
 h3 {
