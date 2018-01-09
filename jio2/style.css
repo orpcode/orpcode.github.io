@@ -1,114 +1,84 @@
-
 body {
-max-width: 800px;
-margin: 1px auto;
-padding: 12px; 
-background: #ffffff;
+  max-width: 800px;
+  margin: 1px auto;
+  padding: 6px; 
+  font-family:Sans-Serif;
+ background-color: #ffffff;
 }
 
-.bottom { 
-padding-top: 6px;
-padding-bottom: 6px;
-border-bottom: 1px solid #ededed;
+.border-all {
+  border: 2px solid #dddddd;
+  margin-bottom:8px;
 }
 
-.all {  border-radius: 25px 25px 25px 25px; color: #ffffff; border: 3px solid #dddddd; background-color:#ffffff; padding-bottom: 0px; margin-bottom:10px; }
+.heading { 
+   padding-left: 10px;
+   padding-top:4px;
+   padding-bottom:4px;
+   background-color:#dddddd;
+}
 
-.title {border-radius: 25px 25px 0px 0px; background-color:#ffffff; color:#000000; padding-left:16px; padding-top:16px; padding-bottom:8px; font-size: 1.2em;}
 
-.text { padding-left:10px;
+.plan-detail-box {
+ background-color: #ffffff;
+ border-radius: 25px 25px 25px 25px;
+ /*  border: 3px solid #bfdfff; */
+ border: 3px solid #dddddd;
+ padding-bottom: 0px;
+ margin:15px;
+ }
+
+.plan-title {
+ font-size: 18px;
+ font-weight: bold;
+ border-radius: 22px 22px 0px 0px;
+ /* background-color: #e6f0fa; */
+ padding-left:16px;
+ padding-top:16px;
+ padding-bottom:8px;
+ color:#000000;
+ }
+
+.plan-text {
+ font-size: 18px;
+     padding-top:4px;
+     padding-left:10px;
      padding-right:10px;
      padding-bottom:4px;
      color: #515151;
 }
 
-.ass2 { 
-
-padding:10px;
-border-radius: 25px 25px 0px 0px;
-color: #515151;
-
-}
-.new {
-color:red;
-padding-right:20px;
-padding-bottom:2px;
+.plan-validity { 
+ font-size: 18px;
+ font-weight: normal;
+ border-radius: 0px 0px 22px 22px;
+ /* background-color: #e6f0fa; */
+ background-color: #dddddd;
+ padding-top:10px;
+ padding-bottom:10px;
 }
 
-.v { 
-padding-top:4px;
-padding-bottom:4px;
-  background-color:#dddddd;
-border-radius: 0px 0px 20px 20px;
-color: #000000;
-
-}
-
-.heading2 {
-
-padding:4px;
-color: #515151;
-/*  color: #CC9119; */
-
-}
-
-.heading {
-
-padding:4px;background-color:#ededed;
-color: #cc9119;
-/*  color: #CC9119; */
-
-}
-
- span { 
-
+span { 
 font-weight: bold;
-
 color: #243988;
-
 }
 
 /* Head Tags */
-
 h1, h2, h3 { 
-
-font-family:Sans-Serif;
-
 font-weight: bold;
-
 }
 
 h1 {
-
 font-size: 2.2em;
-
 color: #243988;
-
 }
 
 h2 {
-
-font-size: 1.0em;
-
+font-size: 1.1em;
 color: #243988;
-
 }
 
 h3 {
-
 font-size: 1.3em;
 color: #243988;
-}
-
-p {
-
-font-size: 1.1em;
-}
-
-.lefttext {
-color: #000000;
-}
-
-.righttext {
-color: #000000;
 }
