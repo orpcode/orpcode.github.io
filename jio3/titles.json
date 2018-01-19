@@ -1,9 +1,9 @@
 { 
    "titleApp":"Jio 4G Plans",
-   "titleOffer":"+1 New offer",
+   "titleOffer":"+1 Added",
    "titlePrepaidPlans":"PREPAID PLANS",
-   "prepaidInfo":"+1 New Plan",
-   "titleJioPhonePlans":"JIOPHONE PLANS",
+   "prepaidInfo":"",
+   "titleJioPhonePlans":"JIO PHONE PLANS",
    "jiophoneInfo":"",
    "titleNotice":"1 New Notification"
 }
