@@ -1,10 +1,10 @@
 { 
    "titleApp":"Jio 4G Plans",
-   "titleOffer":"+1 Added",
+   "titleOffer":"",
    "titlePrepaidPlans":"PREPAID PLANS",
-   "prepaidInfo":"Verified",
-   "titleJioPhonePlans":"JIOPHONE PLANS",
+   "prepaidInfo":"",
+   "titleJioPhonePlans":"JIO PHONE PLANS",
    "jiophoneInfo":"",
    "titleJioPrime":"Jio Prime Exclusive",
-   "titleNotice":"See Upcoming Plans"
+   "titleNotice":""
 }
