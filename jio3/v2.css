@@ -1,42 +1,39 @@
 body {
   max-width: 800px;
   margin: 1px auto;
-  padding: 4px; 
+  padding: 6px; 
   font-family:Sans-Serif;
  background-color: #ffffff;
 }
 
 .border-all {
-  border: 2px solid #bfdfff;
-  margin-bottom:25px;
+  border: 2px solid #dddddd;
 }
 
 .heading { 
    padding-left: 10px;
-   padding-top:1px;
-   padding-bottom:1px;
-   background-color:#e6f0fa;
+   padding-top:4px;
+   padding-bottom:4px;
+   background-color:#dddddd;
 }
 
 
 .plan-detail-box {
  background-color: #ffffff;
  border-radius: 25px 25px 25px 25px;
- /*  border: 3px solid #bfdfff; */
- border: 3px solid #dddddd;
+ border: 3px solid #bfdfff;
  padding-bottom: 0px;
- margin:6px;
+ margin:10px;
  }
 
 .plan-title {
- font-size: 20px;
+ font-size: 18px;
  font-weight: bold;
  border-radius: 22px 22px 0px 0px;
- /* background-color: #e6f0fa; */
- padding-left:16px;
- padding-top:16px;
- padding-bottom:8px;
- color:#000000;
+ background-color: #e6f0fa;
+  padding-left:16px;
+ padding-top:10px;
+ padding-bottom:10px;
  }
 
 .plan-text {
@@ -49,13 +46,12 @@ body {
 }
 
 .plan-validity { 
- font-size: 15px;
+ font-size: 18px;
  font-weight: normal;
  border-radius: 0px 0px 22px 22px;
- /* background-color: #e6f0fa; */
- background-color: #dddddd;
- padding-top:6px;
- padding-bottom:6px;
+ background-color: #e6f0fa;
+ padding-top:10px;
+ padding-bottom:10px;
 }
 
 span { 
