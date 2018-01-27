@@ -1,0 +1,14 @@
+{
+  "Pool A": [
+    {
+      "name": "Australia",
+      "flag": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flagof_Australia_%28converted%29.svg.png"
+    }
+  ],
+  "Pool B": [
+    {
+      "name": "India",
+      "flag": "http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png"
+    }
+  ]
+}
