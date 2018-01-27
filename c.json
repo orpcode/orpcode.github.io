@@ -1,14 +1,14 @@
 {
-  "Pool A": [
+  "1 GB PACK": [
     {
       "name": "Australia",
-      "flag": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flagof_Australia_%28converted%29.svg.png"
+      "flag": "https://cdn0.iconfinder.com/data/icons/images-icons-rounded/110/Image-Focus-128.png"
     }
   ],
-  "Pool B": [
+  "2 GB PACK": [
     {
       "name": "India",
-      "flag": "http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png"
+      "flag": "https://cdn0.iconfinder.com/data/icons/images-icons-rounded/110/Image-Focus-128.png"
     }
   ]
 }
