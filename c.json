@@ -1,38 +1,38 @@
 {
   "Short-term Packs": [
     {
-      "name": "MRP 19",
+      "name": "MRP 19"
       },
 	  {
-      "name": "MRP 52",
+      "name": "MRP 52"
       }
   ],
   "1.5 GB/DAY PACKS": [
     {
-      "name": "MRP 149",
+      "name": "MRP 149"
       },
 	  {
-      "name": "MRP 349",
+      "name": "MRP 349"
       },
 	  {
-      "name": "MRP 399",
+      "name": "MRP 399"
       },
 	  {
-      "name": "MRP 449,
+      "name": "MRP 449
       }
   ],
     "2 GB/DAY PACKS": [
     {
-      "name": "MRP 198",
+      "name": "MRP 198"
       },
 	  {
-      "name": "MRP 398",
+      "name": "MRP 398"
       },
 	  {
-      "name": "MRP 448",
+      "name": "MRP 448"
       },
 	  {
-      "name": "MRP 498,
+      "name": "MRP 498
       }
   ]
 }
