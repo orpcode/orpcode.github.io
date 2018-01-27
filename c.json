@@ -1,14 +1,38 @@
 {
-  "1 GB PACK": [
+  "Short-term Packs": [
     {
-      "name": "Australia",
-      "flag": "https://cdn0.iconfinder.com/data/icons/images-icons-rounded/110/Image-Focus-128.png"
-    }
+      "name": "MRP 19",
+      },
+	  {
+      "name": "MRP 52",
+      }
   ],
-  "2 GB PACK": [
+  "1.5 GB/DAY PACKS": [
     {
-      "name": "India",
-      "flag": "https://cdn0.iconfinder.com/data/icons/images-icons-rounded/110/Image-Focus-128.png"
-    }
+      "name": "MRP 149",
+      },
+	  {
+      "name": "MRP 349",
+      },
+	  {
+      "name": "MRP 399",
+      },
+	  {
+      "name": "MRP 449,
+      }
+  ],
+    "2 GB/DAY PACKS": [
+    {
+      "name": "MRP 198",
+      },
+	  {
+      "name": "MRP 398",
+      },
+	  {
+      "name": "MRP 448",
+      },
+	  {
+      "name": "MRP 498,
+      }
   ]
 }
