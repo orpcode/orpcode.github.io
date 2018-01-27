@@ -1,34 +1,14 @@
 {
-  "1.5 GB/DAY PACKS": [
+  "Pool A": [
     {
-      "name": "MRP 149",
-      "flag": "hf"
-    },
-     {
-      "name": "MRP 349",
-      "flag": ""
-    },
-     {
-      "name": "MRP 399",
-      "flag": ""
-    },
-     {
-      "name": "MRP 449",
-      "flag": ""
+      "name": "Australia",
+      "flag": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flagof_Australia_%28converted%29.svg.png"
     }
   ],
-  "2 GB/DAY PACKS": [
+  "Pool B": [
     {
-      "name": "MRP 198",
-      "flag": ""
-    },
-     {
-      "name": "MRP 398",
-      "flag": ""
-    },
-     {
-      "name": "MRP 498",
-      "flag": "gfnfg"
+      "name": "India",
+      "flag": "http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png"
     }
   ]
 }
