@@ -1,22 +1,18 @@
 {	
   "1.5 GB/DAY PACKS": [
     {
-      "name": "MRP 149"
-      },
-	  {
-      "name": "MRP 349"
-      },
-	  {
-      "name": "MRP 399"
-      },
-	  {
-      "name": "MRP 449"
+      "mrp": "MRP 149",
+      "validity": "Validity: 28 Days",
+      "plan": "SMS: 100/Day\nDATA: 84GB | 2GB/Day\nVOICE CALL: Truly Unlimited",
+      "infoTag": "NEW"
       }
   ],
 
      "Rs 98 PACK": [
     {
-      "name": "Pack 1"
-      }
+     "mrp": "MRP 98",
+      "validity": "Validity: 28 Days",
+      "plan": "SMS: 100/Day\nDATA: 2GB\nVOICE CALL: Truly Unlimited",
+      "infoTag": "NEW"
   ]
 }
