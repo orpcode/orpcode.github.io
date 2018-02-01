@@ -3,8 +3,8 @@
     {
       "mrp": "MRP 149",
       "validity": "Validity: 28 Days",
-      "plan": "SMS: 100/Day\nDATA: 84GB | 2GB/Day\nVOICE CALL: Truly Unlimited",
-      "infoTag": "NEW"
+      "plan": "SMS: 100/Per Day\nDATA: 84GB | 2GB/Per Day\nVOICE CALL: Truly Unlimited",
+      "infoTag": ""
       }
   ],
 
@@ -12,8 +12,8 @@
     {
      "mrp": "MRP 98",
       "validity": "Validity: 28 Days",
-      "plan": "SMS: 100/Day\nDATA: 2GB\nVOICE CALL: Truly Unlimited",
-      "infoTag": "NEW"
+      "plan": "SMS: 100/Per day\nDATA: 2GB (Total)\nVOICE CALL: Truly Unlimited",
+      "infoTag": "NEW PLAN"
     }
   ]
 }
