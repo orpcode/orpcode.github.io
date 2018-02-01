@@ -38,7 +38,51 @@
   ],
 		"4 GB/DAY PACKS": [
     {
-      "name": "`509"
+      "name": "MRP 509"
+      }
+  ],
+	"5 GB/DAY PACKS": [
+    {
+      "name": "MRP 799"
+      }
+  ],
+	"LONG TERM PACKS": [
+    {
+      "name": "Pack 1"
+      },
+		{
+      "name": "Pack 2"
+      },
+		{
+      "name": "Pack 3"
+      },
+		{
+      "name": "Pack 4"
+      }
+  ],
+	"SORT TERM PACKS": [
+    {
+      "name": "Pack 1"
+      },
+		{
+      "name": "Pack 2"
+      },
+		{
+      "name": "Pack 3"
+      }
+  ],
+	"RS 98 MONTHLY PACK": [
+    {
+      "name": "Pack 1"
+      },
+		{
+      "name": "Pack 2"
+      },
+		{
+      "name": "Pack 3"
+      },
+		{
+      "name": "Pack 4"
       }
   ]
 }
