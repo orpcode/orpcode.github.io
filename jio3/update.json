@@ -1,7 +1,7 @@
 { 
  "updateTitle":"App Closed",
  "updateMsg":"Our App server is lost we shuting down our app.Info service is closed. Please Uninstall this app.",
- "updateButtonName":"Update Now",
+ "updateButtonName":"Ok",
  "appName":"Jio Recharge Plans",
  "appVersion":"1.0.3",
  "versionUpLevel":"1000",
