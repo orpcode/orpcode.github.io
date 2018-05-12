@@ -289,7 +289,7 @@ a.rm {
 	float:left;
 }
 .fbg {
-	background:#303030 url(../images/fbg_bg.gif) repeat left top;
+    background: #282828;
 	border-top:10px solid #282828;
 	border-bottom:7px solid #181818;
 }
