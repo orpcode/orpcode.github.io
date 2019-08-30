@@ -4,6 +4,6 @@
  "updateVersionCode":"200",
  "updateTitle":"Update App",
  "updateText":"New version available!",
- "updateButton":"2.0.0",
- "updateLink":"updateLink"
+ "updateButton":"Update Now",
+ "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.agecalculatorplus"
 } 
