@@ -3,7 +3,7 @@
  "showDialog":1,
  "updateCancelable":"true",
  "updateVersionCode":"201",
- "updateTitle":"Update App",
+ "updateTitle":"Update",
  "updateText":"New version available!",
  "updateButton":"Update Now",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.agecalculatorplus"
