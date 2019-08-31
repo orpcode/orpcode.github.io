@@ -1,7 +1,7 @@
 { 
  "showDialog":1,
  "updateCancelable":"true",
- "updateVersionCode":"100",
+ "updateVersionCode":"101",
  "updateTitle":"Update App",
  "updateText":"New version available!",
  "updateButton":"Update Now",
