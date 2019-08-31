@@ -1,5 +1,5 @@
 { 
- "showAds":"true",
+ "showAds":1,
  "showDialog":1,
  "updateCancelable":"true",
  "updateVersionCode":"203",
