@@ -3,7 +3,7 @@
  "updateCancelable":"true",
  "updateVersionCode":"101",
  "updateTitle":"Update Available",
- "updateText":"\n\nVersion: 1.0.1",
+ "updateText":"A new latest version (1.0.1) is available for this app.",
  "updateButton":"Update Now",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.agecalculatorplus"
 } 
