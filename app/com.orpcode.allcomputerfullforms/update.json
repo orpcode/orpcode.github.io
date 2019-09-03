@@ -1,7 +1,7 @@
 { 
  "showDialog":1,
  "updateCancelable":"true",
- "updateVersionCode":"101",
+ "updateVersionCode":"100",
  "updateTitle":"Update Available",
  "updateText":"A new version 1.0.1 is available for update.",
  "updateButton":"Update Now",
