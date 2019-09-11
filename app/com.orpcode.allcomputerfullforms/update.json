@@ -1,9 +1,9 @@
 { 
- "showDialog":0,
+ "showDialog":1,
  "updateCancelable":"true",
- "updateVersionCode":"101",
+ "updateVersionCode":"102",
  "updateTitle":"Update Available",
- "updateText":"A new version 1.0.1 is available for update.",
+ "updateText":"A new version 1.0.2 is available for update.",
  "updateButton":"Update Now",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.allcomputerfullforms"
 } 
