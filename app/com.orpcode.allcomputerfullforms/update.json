@@ -1,6 +1,6 @@
 { 
  "showDialog":1,
- "updateCancelable":"true",
+ "updateCancelable":"false",
  "updateVersionCode":"105",
  "updateTitle":"App Update Available",
  "updateText":"A new version 1.0.5 is available for update.",
