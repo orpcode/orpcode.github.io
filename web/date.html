@@ -1,0 +1,306 @@
+<html>
+<head>
+  <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+<title>Between Two Dates</title>
+
+</head>
+
+<body onload="Zonload()">
+<h1>Between Two Dates</h1>
+
+<form id="form1">
+
+
+   <b> Start date: </b>
+
+    <select id="QstartYr" onchange="ZsetStartYr(this)">
+     <option value="2000">2000</option>
+     <!-- The rest to be filled by Zonload() -->
+    </select>
+    <select id="QstartMo" onchange="ZsetStartMo(this)">
+     <option value="1"> Jan</option>
+     <option value="2"> Feb</option>
+     <option value="3"> Mar</option>
+     <option value="4"> Apr</option>
+     <option value="5"> May</option>
+     <option value="6"> Jun</option>
+     <option value="7"> Jul</option>
+     <option value="8"> Aug</option>
+     <option value="9"> Sep</option>
+     <option value="10">Oct</option>
+     <option value="11">Nov</option>
+     <option value="12">Dec</option>
+    </select>
+    <select id="QstartDy" onchange="ZsetStartDy(this)">
+     <option value="1"> 01</option>
+     <!-- The rest to be filled by Zonload() -->
+    </select>
+   
+ 
+  
+
+  <br>  <br>
+   <b> End date:</b>
+   
+    <select id="QendYr" onchange="ZsetEndYr(this)">
+     <option value="2000">2000</option>
+     <!-- The rest to be filled by Zonload() -->
+    </select>
+    <select id="QendMo" onchange="ZsetEndMo(this)">
+     <option value="1"> Jan</option>
+     <option value="2"> Feb</option>
+     <option value="3"> Mar</option>
+     <option value="4"> Apr</option>
+     <option value="5"> May</option>
+     <option value="6"> Jun</option>
+     <option value="7"> Jul</option>
+     <option value="8"> Aug</option>
+     <option value="9"> Sep</option>
+     <option value="10">Oct</option>
+     <option value="11">Nov</option>
+     <option value="12">Dec</option>
+    </select>
+    <select id="QendDy" onchange="ZsetEndDy(this)">
+     <option value="1"> 01</option>
+     <!-- The rest to be filled by Zonload() -->
+    </select>
+
+    <input id="QtodayBtn" type="button" value="Today"
+      onclick="ZsetEndAsToday(this)"/>
+
+ 
+
+<hr>
+ <p/>
+
+
+   <b> Years: </b>
+
+    <input id="QdeltaYr" type="text" readonly size="12" value="0"/>
+<br>
+   <b> Days:</b>
+   <td> &nbsp;
+    <input id="QdeltaTDay" type="text" size="12" value="0" maxlength="20"
+      onchange="ZsetTotalDays(this)"/>
+
+
+</form><!--id="form1"-->
+
+
+<script type="text/javascript">
+
+// Variables
+var ZstartDate = new Date(2000, 1-1, 1);
+var ZendDate =   new Date();
+// Start-up code
+function Zonload()
+{
+  var o;
+  var i;
+  var n;
+  // Set up drop-down lists
+  o = document.getElementById("QstartYr");
+  o.length = 2100 - 1900 + 1;
+  for (i = 1900;  i <= 2100;  i++) {
+   o.options[i-1900].value = i;
+   o.options[i-1900].text =  i;
+  }
+  o = document.getElementById("QendYr");
+  o.length = 2100 - 1900 + 1;
+  for (i = 1900;  i <= 2100;  i++) {
+   o.options[i-1900].value = i;
+   o.options[i-1900].text =  i;
+  }
+  o = document.getElementById("QstartDy");
+  o.length = 31;
+  for (i = 1;  i <= 31;  i++) {
+    o.options[i-1].value = i;
+    o.options[i-1].text =  i;
+    if (i < 10)
+      o.options[i-1].text = "0" + i;
+  }
+  o = document.getElementById("QendDy");
+  o.length = 31;
+  for (i = 1;  i <= 31;  i++) {
+    o.options[i-1].value = i;
+    o.options[i-1].text =  i;
+    if (i < 10)
+      o.options[i-1].text = "0" + i;
+  }
+  // Update the initial start and end dates
+  ZupdateStartDate();
+  ZupdateEndDate();
+}
+//
+function ZupdateStartDate()
+{
+  ZupdateDate2(ZstartDate, "Qstart");
+  ZupdateDifs();
+}
+//
+function ZupdateEndDate()
+{
+  ZupdateDate2(ZendDate, "Qend");
+  ZupdateDifs();
+}
+// Update the displayed start date
+function ZupdateDate2(dat, pfx)
+{
+  var n;
+  var sel;
+  // Set the displayed selected year
+  sel = document.getElementById(pfx+"Yr");
+  for (n = 0;  n < sel.length;  n++)
+    sel.options[n].selected = "";
+  n = dat.getFullYear();
+  sel.options[n-1900].selected = "selected";
+  // Set the displayed selected month
+  sel = document.getElementById(pfx+"Mo");
+  for (n = 0;  n < 12;  n++)
+    sel.options[n].selected = "";
+  n = dat.getMonth();
+  sel.options[n].selected = "selected";
+  // Set the displayed selected day of the month
+  sel = document.getElementById(pfx+"Dy");
+  for (n = 0;  n < 31;  n++)
+    sel.options[n].selected = "";
+  n = dat.getDate();
+  sel.options[n-1].selected = "selected";
+}
+//
+function ZupdateDifs()
+{
+  var n;
+  var o;
+  n = ZdifYears(ZstartDate, ZendDate);
+  o = document.getElementById("QdeltaYr");
+  o.value = ZformatN(n);
+  n = ZdifDays(ZstartDate, ZendDate);
+  o = document.getElementById("QdeltaTDay");
+  o.value = ZformatN(n);
+}
+//
+function ZsetStartYr(sel)
+{
+  var n = sel.options[sel.selectedIndex].value;
+  ZstartDate.setFullYear(n);
+  ZupdateStartDate();
+}
+//
+function ZsetEndYr(sel)
+{
+  var n = sel.options[sel.selectedIndex].value;
+  ZendDate.setFullYear(n);
+  ZupdateEndDate();
+}
+//
+function ZsetStartMo(sel)
+{
+  var n = sel.options[sel.selectedIndex].value;
+  ZstartDate.setMonth(n-1);
+  ZupdateStartDate();
+}
+//
+function ZsetEndMo(sel)
+{
+  var n = sel.options[sel.selectedIndex].value;
+  ZendDate.setMonth(n-1);
+  ZupdateEndDate();
+}
+//
+function ZsetStartDy(sel)
+{
+  var n = sel.options[sel.selectedIndex].value;
+  ZstartDate.setDate(n);
+  ZupdateStartDate();
+}
+//
+function ZsetEndDy(sel)
+{
+  var n = sel.options[sel.selectedIndex].value;
+  ZendDate.setDate(n);
+  ZupdateEndDate();
+}
+// Reset the end date as today's date
+function ZsetEndAsToday(btn)
+{
+  ZendDate = new Date();
+  ZupdateEndDate();
+}
+// Calculate the difference of two dates in total days
+function ZdifDays(d1, d2)
+{
+  var ndays;
+  var tv1 = d1.valueOf();  // msec since 1970
+  var tv2 = d2.valueOf();
+  ndays = (tv2 - tv1) / 1000 / 86400;
+  ndays = Math.round(ndays - 0.5);
+  return ndays;
+}
+// Calculate the difference of two dates in total years
+function ZdifYears(d1, d2)
+{
+  var nyr;
+  nyr = d2.getFullYear() - d1.getFullYear() - 1;
+  if (d1.getMonth() < d2.getMonth()) {
+    nyr++;
+  }
+  else if (d1.getMonth() == d2.getMonth()
+    &&  d1.getDate() <= d2.getDate()) {
+    nyr++;
+  }
+  return nyr;
+}
+// Set the total days difference
+function ZsetTotalDays(inp)
+{
+  var n;
+  var d;
+  // Retrieve and clean up the total days count
+  n = "";
+  d = inp.value;
+  for (var i = 0;  i < d.length; i++) {
+    var ch = d.substring(i, i+1);
+    if (ch >= '0'  &&  ch <= '9')
+      n += ch;
+  }
+  inp.value = ZformatN(n);
+  // Compute a new end date from the difference
+  d = ZstartDate.getTime();
+  d += n * 86400 * 1000;
+  ZendDate = new Date(d);
+  ZupdateEndDate();
+  inp.focus();
+}
+// Format a number with thousands separators
+function ZformatN(n)
+{
+  var o = "";
+  var sgn = "";
+  if (n < 0) {
+    n = (n + "").substring(1);
+    sgn = "-";
+  }
+  n = n + "";
+  while (n.length % 3 > 0)
+    n = "0" + n;
+  while (n.length > 0) {
+    var g = n.substring(0, 3);
+    o = o + "," + g;
+    n = n.substring(3);
+  }
+  o = o.substring(1);
+  while (o.substring(0, 1) == "0")
+    o = o.substring(1);
+  if (o.length == 0)
+    o = "0";
+  return sgn + o;
+}
+
+</script>
+
+
+</body>
+</html>
