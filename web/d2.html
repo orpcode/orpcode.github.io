@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, width=device-width" />
+    <title>Age Calculator Plus</title>
+    <style type="text/css">
+ * {-webkit-user-select:none; }
+ @font-face {
+ font-family: "Quicksand";
+ src:url('file:///android_asset/fonts/qr.ttf');
+ }
+body {
+  background-color:#ededef;
+  font-family: "Quicksand";
+  font-size: 18px;
+  line-height:1.1;
+  color: #232A34;
+  margin-top: 0px;
+  margin-bottom: 60px;
+ }
+a{ font-size:none; color:#000000; text-decoration:none; }
+.wrap {
+  padding-left: 3px;
+    padding-right: 3px;
+   }
+.button {
+   margin-left: 10px;
+   background-color: #31475C;
+   color: #ffffff;
+   padding:6px;
+   border:2px #394D62 solid;
+   border-radius: 4px 4px 4px 4px;
+    }
+ .round { border-radius: 2px; }
+ .right { float: right; }
+
+.b1 {
+    margin-top: 18px;
+    margin-bottom: 4px;
+    background-color: #ffffff;
+    padding:10px;
+    border: 2px #2774B7 solid;
+    border-radius: 15px 0px 15px 0px;
+ }
+
+ .b2 {
+    background-color: #ffffff;
+    margin-top: 18px;
+    margin-bottom: 0px;
+    padding:10px;
+    border: 2px #2774B7 solid;
+    border-radius: 15px 0px 15px 0px;
+  }
+
+   .b3 {
+    margin-top:4px;
+    margin-bottom: 4px;
+    padding:10px;
+  }
+
+ </style>
+    <script type="text/javascript">
+ // get current date
+ var current = new Date();
+ var currentDay = current.getDate();
+ var currentMonth = current.getMonth() + 1;
+ var currentYear = current.getFullYear();
+
+ function viewMonthName(getMonthNumber){
+  var setMothName = new Array();
+  setMothName[1] = "Jan";
+  setMothName[2] = "Feb";
+  setMothName[3] = "Mar";
+  setMothName[4] = "Apr";
+  setMothName[5] = "May";
+  setMothName[6] = "Jun";
+  setMothName[7] = "Jul";
+  setMothName[8] = "Aug";
+  setMothName[9] = "Sep";
+  setMothName[10] = "Oct";
+  setMothName[11] = "Nov";
+  setMothName[12] = "Dec";
+ var returnMonthName = setMothName[getMonthNumber];
+ return returnMonthName;
+ }
+
+function checkleapyear(datea){
+if(datea.getYear()%4 == 0){
+if(datea.getYear()% 10 != 0){
+  return true;
+ } else {
+if(datea.getYear()% 400 == 0) {
+  return true;
+   } else {
+    return false;
+      }
+    }
+ }
+return false;
+ }
+
+ function daysInMonth(Y, M) {
+ with(new Date(Y, M, 1, 12)) {
+  setDate(0);
+ return getDate();
+ } }
+
+ function datediff(date1, date2) {
+ var y1 = date1.getFullYear(), m1 = date1.getMonth(), d1 = date1.getDate(),
+ y2 = date2.getFullYear(), m2 = date2.getMonth(), d2 = date2.getDate();
+ if(d1 < d2) {
+  m1--;
+  d1 += daysInMonth(y2, m2);
+ }
+ if (m1 < m2) {
+ y1--;
+ m1 += 12;
+ }
+return [y1 - y2, m1 - m2, d1 - d2]; }
+
+function getAge() {
+  // curent date
+  var currentDay =  document.birthday.c_day.options[document.birthday.c_day.selectedIndex].value;
+  var currentMonth = document.birthday.c_month.options[document.birthday.c_month.selectedIndex].value;
+  var currentYear = document.birthday.c_year.options[document.birthday.c_year.selectedIndex].value;
+  // var currentYear = document.getElementById("c_year").value;
+
+  //get date of birth
+var calday = document.birthday.day.options[document.birthday.day.selectedIndex].value;
+var calmon = document.birthday.month.options[document.birthday.month.selectedIndex].value;
+ // var calyear = document.birthday.year.options[document.birthday.year.selectedIndex].value;
+var calyear = document.getElementById("year").value;
+
+if(currentDay == "" || currentMonth=="" || currentYear=="" || calday=="" || calmon=="" || calyear==""){
+  alert("Please enter Date of Year!");
+
+ }  else  {
+  // now calculate age prossess
+var curd = new Date(currentYear,currentMonth-1,currentDay);
+var cald = new Date(calyear,calmon-1,calday);
+var diff = Date.UTC(currentYear,currentMonth,currentDay,0,0,0) - Date.UTC(calyear,calmon,calday,0,0,0);
+ // print age in year,months,days
+var dife = datediff(curd, cald);
+ //document.birthday.age.value = dife[0]+" years, "+dife[1]+" months, and "+dife[2]+" days";
+document.getElementById("printAge").innerHTML = "<b>"+dife[0]+"</b> Years, <b>"+dife[1]+"</b> Months, and <b>"+dife[2]+"</b> Days";
+var monthLeft = (dife[0] * 12) + dife[1];
+var secLeft = diff/1000/60;
+var hoursLeft = secLeft/60;
+var daysLeft = hoursLeft/24;
+ // month since your birth
+document.getElementById("ageInMonths").innerHTML = "<b>" +monthLeft+"</b> months since your birth";
+ // days since your birth
+document.getElementById("ageInDays").innerHTML = "<b>" +daysLeft+"</b> days since your birth";
+ // hours since your birth
+document.getElementById("ageInHours").innerHTML = "<b>" +hoursLeft+"</b> hours since your birth";
+ // minutes since your birth
+document.getElementById("ageInMin").innerHTML = "<b>" +secLeft+"</b> minutes since your birth";
+
+var as = parseInt(calyear)+dife[0]+1;
+var diff = Date.UTC(as,calmon,calday,0,0,0) - Date.UTC(currentYear,currentMonth,currentDay,0,0,0);
+ // next birth date left
+var nextBirthDay = diff/1000/60/60/24;
+
+document.getElementById("nextBirthDay").innerHTML = "<b>"+nextBirthDay+"</b> Days left";
+
+    }
+}
+
+</script>
+
+</head>
+<body>
+<div class="wrap">
+    <form name="birthday">
+
+        <div class="b1">
+
+            <b>Today's Date</b> <span class="right" id="currentDate"></span>
+            <div style="margin-top: 5px; margin-bottom: 5px;">
+                <small> Day - Month -Year</small>
+            </div>
+            <select class="round" name="c_day" size="1">
+                <script type="text/javascript">
+  var curDay = new Date().getDate();
+  for(var cd = 1; cd <= 31; cd++) {
+  var selectedDay = (curDay === cd) ? 'selected="selected"': '';
+  document.write('<option '+selectedDay+' value="'+cd+'">'+cd+'</option>');
+}</script>
+                </script></select> - <select class="round" name="c_month" size="1">
+            <script type="text/javascript">
+                var curMonth = new Date().getMonth() + 1;
+                for(var cm = 1; cm <= 12; cm++) {
+                var selectedMonth = (curMonth === cm) ? 'selected="selected"': '';
+                document.write('<option '+selectedMonth+' value="'+cm+'">'+cm+' ('+viewMonthName(cm)+')</option>');
+                }</script>
+</select> - <select class="round" name="c_year" size="1">
+<script type="text/javascript">
+  var curYear = new Date().getFullYear();
+  for(var cy = 1900; cy <= curYear+1; cy++) {
+  var selectedYear = (curYear === cy) ? 'selected="selected"': '';
+  document.write('<option '+selectedYear+' value="'+cy+'">'+cy+'</option>');
+}</script>
+        </select>
+        </div>
+
+        <div class="b2">
+            <b>Date of Birth</b>
+            <div style="margin-top: 5px; margin-bottom: 5px;">
+                <small> Day - Month -Year</small>
+            </div>
+            <select class="round" name="day" size="1">
+                <script type="text/javascript">
+  for(var dobDay=1;dobDay<=31;dobDay++){
+    document.write("<option value="+dobDay+">"+dobDay+"</option>");
+  }
+</script></select>
+            - <select class="round" name="month" size="1">
+            <script type="text/javascript">
+  for(var dobMonth=1;dobMonth<=12;dobMonth++) {
+    document.write('<option value="'+dobMonth+'">'+dobMonth+' ('+viewMonthName(dobMonth)+')</option>');
+  } </script></select> - <input class="round" type="text" id="year" size="4" placeholder="year" value="1991" name="year">
+            <span id="info"></span>
+        </div>
+        <br/>
+        <input class="button" onclick="getAge()" value="Calculate" type="button"> &nbsp; &nbsp;<a href="?reset=done">Clear / Reset</a>
+        <br/>
+    </form>
+
+    <div class="b3">
+        <b><font color="#2370B2">Your Age:</font></b>
+        <!-- print age -->
+        <div style="margin-top:7px; margin-bottom:10px;" id="printAge"></div>
+        <b><font color="#2B79BC">Next Birthday:</font></b>
+        <!-- next birthday -->
+        <div style="margin-top:7px; margin-bottom:10px;" id="nextBirthDay"></div>
+
+        <b><font color="#2B79BC">Extra information:</font></b>
+        <!-- extra info -->
+        <!-- age in months -->
+        <div style="margin-top:7px; margin-bottom:10px;" id="ageInMonths"></div>
+        <!-- age in days -->
+        <div style="margin-top:7px; margin-bottom:10px;" id="ageInDays"></div>
+        <!-- age in hours -->
+        <div style="margin-top:7px; margin-bottom:10px;" id="ageInHours"></div>
+        <!-- age in min -->
+        <div style="margin-top:7px; margin-bottom:10px;" id="ageInMin"></div>
+        <!-- extra info end -->
+    </div>
+
+    <script type="text/javascript">
+
+ // current date
+document.getElementById("currentDate").innerHTML = "<small>" +currentDay+ " " +viewMonthName(currentMonth)+ ", " +currentYear+"</small>";
+
+</script>
+</div>
+</body>
+</html>
