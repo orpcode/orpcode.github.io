@@ -3,7 +3,7 @@
  "updateCancelable":"true",
  "updateVersionCode":"200",
  "updateTitle":"Update Available",
- "updateText":"A new version 2.0.0 is available for update with new look.",
+ "updateText":"A new version 2.0.0 is available for update with new look",
  "updateButton":"Update Now",
  "updateLink":"market://details?id=com.orpcode.spicenamesinbengali"
 } 
