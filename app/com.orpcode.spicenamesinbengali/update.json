@@ -1,9 +1,9 @@
 { 
  "showDialog":0,
  "updateCancelable":"true",
- "updateVersionCode":"200",
+ "updateVersionCode":"201",
  "updateTitle":"Update Available",
- "updateText":"A new version 2.0.0 is available for update with new look",
+ "updateText":"A new version 2.0.1 is available for update with new look",
  "updateButton":"Update Now",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.spicenamesinbengali"
 } 
