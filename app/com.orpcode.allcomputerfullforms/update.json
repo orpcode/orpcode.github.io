@@ -1,6 +1,6 @@
 { 
  "showDialog":1,
- "updateCancelable":"true",
+ "updateCancelable":"false",
  "updateVersionCode":"202",
  "updateTitle":"New Update",
  "updateText":"New version (2.0.2) is available for update\n\nWHATS NEW ?\n\n* No longer supported : API 18 / 4.3 / Jelly Bean\n* Online list update feature more optimized\n* New optimized search\n* New look\n* Minor bugs fixed",
