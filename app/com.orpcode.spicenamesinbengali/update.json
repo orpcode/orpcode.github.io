@@ -1,6 +1,6 @@
 { 
  "showDialog":0,
- "updateCancelable":"true",
+ "updateCancelable":"false",
  "updateVersionCode":"203",
  "updateTitle":"Update Available",
  "updateText":"A new version 2.0.3 is available",
