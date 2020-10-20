@@ -1,5 +1,5 @@
 { 
- "showDialog":0,
+ "showDialog":1,
  "updateCancelable":"false",
  "updateVersionCode":"203",
  "updateTitle":"Update Available",
