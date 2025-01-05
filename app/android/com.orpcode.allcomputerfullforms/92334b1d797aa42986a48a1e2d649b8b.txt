@@ -1,0 +1,5525 @@
+{ 
+ "code":"1",
+ "message":"200",
+ "data": [
+    {
+        "id": "1",
+        "acro": "100B-FX",
+        "full_form": "100 Base-FX"
+    },
+    {
+        "id": "2",
+        "acro": "100B-T",
+        "full_form": "100 Base-T"
+    },
+    {
+        "id": "3",
+        "acro": "100B-TX",
+        "full_form": "100 Base-TX"
+    },
+    {
+        "id": "4",
+        "acro": "100BVG",
+        "full_form": "100 BaseVG"
+    },
+    {
+        "id": "5",
+        "acro": "10B-F",
+        "full_form": "10 Base-F"
+    },
+    {
+        "id": "6",
+        "acro": "10B-FB",
+        "full_form": "10 Base-FB"
+    },
+    {
+        "id": "7",
+        "acro": "10B-FL",
+        "full_form": "10 Base-FL"
+    },
+    {
+        "id": "8",
+        "acro": "10B-FP",
+        "full_form": "10 Base-FP"
+    },
+    {
+        "id": "9",
+        "acro": "10B-T",
+        "full_form": "10 Base-T"
+    },
+    {
+        "id": "10",
+        "acro": "10B2",
+        "full_form": "10 Base2"
+    },
+    {
+        "id": "11",
+        "acro": "10B5",
+        "full_form": "10 Base5"
+    },
+    {
+        "id": "12",
+        "acro": "1GL",
+        "full_form": "First-Generation Programming Language"
+    },
+    {
+        "id": "13",
+        "acro": "286",
+        "full_form": "Intel 80286 processor"
+    },
+    {
+        "id": "14",
+        "acro": "2B1Q",
+        "full_form": "2 Binary 1 Quaternary"
+    },
+    {
+        "id": "15",
+        "acro": "2GL",
+        "full_form": "Second-Generation Programming Language"
+    },
+    {
+        "id": "16",
+        "acro": "386",
+        "full_form": "Intel 80386 processor"
+    },
+    {
+        "id": "17",
+        "acro": "3GL",
+        "full_form": "Third-Generation Programming Language"
+    },
+    {
+        "id": "18",
+        "acro": "486",
+        "full_form": "Intel 80486 processor"
+    },
+    {
+        "id": "19",
+        "acro": "4B5BLF",
+        "full_form": "4 Byte 5 Byte Local Fiber"
+    },
+    {
+        "id": "20",
+        "acro": "4GL",
+        "full_form": "Fourth-Generation Programming Language"
+    },
+    {
+        "id": "21",
+        "acro": "586",
+        "full_form": "Intel Pentium processor"
+    },
+    {
+        "id": "22",
+        "acro": "5GL",
+        "full_form": "Fifth-Generation Programming Language"
+    },
+    {
+        "id": "23",
+        "acro": "686",
+        "full_form": "Any of the Intel Pentium Pro, Pentium II, Pentium III, and Pentium 4 processors"
+    },
+    {
+        "id": "24",
+        "acro": "8B10BLF",
+        "full_form": "8 Byte 10 Byte Local Fiber"
+    },
+    {
+        "id": "25",
+        "acro": "AA",
+        "full_form": "Anti-Aliasing"
+    },
+    {
+        "id": "26",
+        "acro": "AAA",
+        "full_form": "Authentication Authorization, Accounting"
+    },
+    {
+        "id": "27",
+        "acro": "AABB",
+        "full_form": "Axis Aligned Bounding Box"
+    },
+    {
+        "id": "28",
+        "acro": "AAC",
+        "full_form": "Advanced Audio Coding (audio compression format defined by the MPEG-2 standard)"
+    },
+    {
+        "id": "29",
+        "acro": "AAL",
+        "full_form": "ATM Adaptation Layer"
+    },
+    {
+        "id": "30",
+        "acro": "AALC",
+        "full_form": "ATM Adaptation Layer Connection"
+    },
+    {
+        "id": "31",
+        "acro": "AARP",
+        "full_form": "AppleTalk Address Resolution Protocol"
+    },
+    {
+        "id": "32",
+        "acro": "ABI",
+        "full_form": "Application Binary Interface"
+    },
+    {
+        "id": "33",
+        "acro": "ABM",
+        "full_form": "Asynchronous Balanced Mode"
+    },
+    {
+        "id": "34",
+        "acro": "ABR",
+        "full_form": "Area Border Router"
+    },
+    {
+        "id": "35",
+        "acro": "ABR",
+        "full_form": "Auto Baud-Rate Detection"
+    },
+    {
+        "id": "36",
+        "acro": "ABR",
+        "full_form": "Available Bit Rate"
+    },
+    {
+        "id": "37",
+        "acro": "ABR",
+        "full_form": "Average Bit Rate"
+    },
+    {
+        "id": "38",
+        "acro": "AC",
+        "full_form": "Alternating Current"
+    },
+    {
+        "id": "39",
+        "acro": "AC",
+        "full_form": "Acoustic Coupler"
+    },
+    {
+        "id": "40",
+        "acro": "ACD",
+        "full_form": "Automatic Call Distributor"
+    },
+    {
+        "id": "41",
+        "acro": "ACF",
+        "full_form": "Advanced Communications Function"
+    },
+    {
+        "id": "42",
+        "acro": "ACF NCP",
+        "full_form": "Advanced Communications Function - Network Control Program"
+    },
+    {
+        "id": "43",
+        "acro": "ACID",
+        "full_form": "Atomicity Consistency Isolation Durability"
+    },
+    {
+        "id": "44",
+        "acro": "ACK",
+        "full_form": "ACKnowledgement"
+    },
+    {
+        "id": "45",
+        "acro": "ACL",
+        "full_form": "Access Control List"
+    },
+    {
+        "id": "46",
+        "acro": "ACL",
+        "full_form": "Active Current Loop"
+    },
+    {
+        "id": "47",
+        "acro": "ACM",
+        "full_form": "Association for Computing Machinery"
+    },
+    {
+        "id": "48",
+        "acro": "ACME",
+        "full_form": "Automated Classification of Medical Entities"
+    },
+    {
+        "id": "49",
+        "acro": "ACPI",
+        "full_form": "Advanced Configuration and Power Interface"
+    },
+    {
+        "id": "50",
+        "acro": "ACR",
+        "full_form": "Attenuation to Crosstalk Ratio"
+    },
+    {
+        "id": "51",
+        "acro": "ACR",
+        "full_form": "Allowed Cell Rate"
+    },
+    {
+        "id": "52",
+        "acro": "AD",
+        "full_form": "Active Directory"
+    },
+    {
+        "id": "53",
+        "acro": "AD",
+        "full_form": "Administrative Domain"
+    },
+    {
+        "id": "54",
+        "acro": "ADB",
+        "full_form": "Apple Desktop Bus"
+    },
+    {
+        "id": "55",
+        "acro": "ADC",
+        "full_form": "Analog-To-Digital Converter"
+    },
+    {
+        "id": "56",
+        "acro": "ADC",
+        "full_form": "Apple Display Connector (DVI variant)"
+    },
+    {
+        "id": "57",
+        "acro": "ADCCP",
+        "full_form": "Advanced Data Communications Control Protocol\/Procedures"
+    },
+    {
+        "id": "58",
+        "acro": "ADO",
+        "full_form": "ActiveX Data Objects"
+    },
+    {
+        "id": "59",
+        "acro": "ADSL",
+        "full_form": "Asymmetric Digital Subscriber Line (variant of DSL)"
+    },
+    {
+        "id": "60",
+        "acro": "ADT",
+        "full_form": "Abstract Data Type"
+    },
+    {
+        "id": "61",
+        "acro": "AE",
+        "full_form": "Adaptive Equalizer"
+    },
+    {
+        "id": "62",
+        "acro": "AES",
+        "full_form": "Advanced Encryption Standard"
+    },
+    {
+        "id": "63",
+        "acro": "AF",
+        "full_form": "Anisotropic Filtering"
+    },
+    {
+        "id": "64",
+        "acro": "AFP",
+        "full_form": "Apple Filing Protocol"
+    },
+    {
+        "id": "65",
+        "acro": "AGP",
+        "full_form": "Accelerated Graphics Port (sometimes used with a suffix indicating the ports bandwidth, like AGP4x)"
+    },
+    {
+        "id": "66",
+        "acro": "AH",
+        "full_form": "Active Hub"
+    },
+    {
+        "id": "67",
+        "acro": "AI",
+        "full_form": "Artificial Intelligence"
+    },
+    {
+        "id": "68",
+        "acro": "AIX",
+        "full_form": "Advanced Interactive Executive"
+    },
+    {
+        "id": "69",
+        "acro": "Ajax",
+        "full_form": "Asynchronous JavaScript and XML"
+    },
+    {
+        "id": "70",
+        "acro": "AL",
+        "full_form": "Access List"
+    },
+    {
+        "id": "71",
+        "acro": "AL",
+        "full_form": "Active Link"
+    },
+    {
+        "id": "72",
+        "acro": "ALGOL",
+        "full_form": "Algorithmic Language"
+    },
+    {
+        "id": "73",
+        "acro": "ALSA",
+        "full_form": "Advanced Linux Sound Architecture"
+    },
+    {
+        "id": "74",
+        "acro": "ALU",
+        "full_form": "Arithmetic and Logical Unit"
+    },
+    {
+        "id": "75",
+        "acro": "AM",
+        "full_form": "Active Monitor"
+    },
+    {
+        "id": "76",
+        "acro": "AM",
+        "full_form": "Amplitude Modulation"
+    },
+    {
+        "id": "77",
+        "acro": "AM",
+        "full_form": "Access Method"
+    },
+    {
+        "id": "78",
+        "acro": "AM",
+        "full_form": "Active Matrix"
+    },
+    {
+        "id": "79",
+        "acro": "AMD",
+        "full_form": "Advanced Micro Devices"
+    },
+    {
+        "id": "80",
+        "acro": "AMR",
+        "full_form": "Audio Modem Riser"
+    },
+    {
+        "id": "81",
+        "acro": "ANN",
+        "full_form": "Artificial Neural Network"
+    },
+    {
+        "id": "82",
+        "acro": "ANSI",
+        "full_form": "American National Standards Institute"
+    },
+    {
+        "id": "83",
+        "acro": "ANT",
+        "full_form": "Another Neat Tool"
+    },
+    {
+        "id": "84",
+        "acro": "AoE",
+        "full_form": "ATA over Ethernet"
+    },
+    {
+        "id": "85",
+        "acro": "AOP",
+        "full_form": "Aspect-Oriented Programming"
+    },
+    {
+        "id": "86",
+        "acro": "APCI",
+        "full_form": "Application-Layer Protocol Control Information"
+    },
+    {
+        "id": "87",
+        "acro": "API",
+        "full_form": "Application Programming Interface"
+    },
+    {
+        "id": "88",
+        "acro": "APIC",
+        "full_form": "Advanced Programmable Interrupt Controller"
+    },
+    {
+        "id": "89",
+        "acro": "APIPA",
+        "full_form": "Automatic Private IP Addressing"
+    },
+    {
+        "id": "90",
+        "acro": "APL",
+        "full_form": "A Programming Language"
+    },
+    {
+        "id": "91",
+        "acro": "APR",
+        "full_form": "Apache Portable Runtime"
+    },
+    {
+        "id": "92",
+        "acro": "APS",
+        "full_form": "Accunet Packet Service"
+    },
+    {
+        "id": "93",
+        "acro": "ARC",
+        "full_form": "Advanced RISC Computing"
+    },
+    {
+        "id": "94",
+        "acro": "ARIN",
+        "full_form": "American Registry for Internet Numbers"
+    },
+    {
+        "id": "95",
+        "acro": "ARM",
+        "full_form": "Advanced RISC Machines"
+    },
+    {
+        "id": "96",
+        "acro": "ARP",
+        "full_form": "Address Resolution Protocol"
+    },
+    {
+        "id": "97",
+        "acro": "ARPA",
+        "full_form": "Advanced Research Projects Agency"
+    },
+    {
+        "id": "98",
+        "acro": "ARPA",
+        "full_form": "Address and Routing Parameter Area"
+    },
+    {
+        "id": "99",
+        "acro": "ARPANET",
+        "full_form": "Advanced Research Projects Agency Network"
+    },
+    {
+        "id": "100",
+        "acro": "AS",
+        "full_form": "Access Server"
+    },
+    {
+        "id": "101",
+        "acro": "ASCII",
+        "full_form": "American Standard Code for Information Interchange"
+    },
+    {
+        "id": "102",
+        "acro": "ASG",
+        "full_form": "Abstract Semantic Graph"
+    },
+    {
+        "id": "103",
+        "acro": "ASIC",
+        "full_form": "Application Specific Integrated Circuit"
+    },
+    {
+        "id": "104",
+        "acro": "ASLR",
+        "full_form": "Address Space Layout Randomization"
+    },
+    {
+        "id": "105",
+        "acro": "ASMP",
+        "full_form": "Asymmetric Multiprocessing"
+    },
+    {
+        "id": "106",
+        "acro": "ASN.1",
+        "full_form": "Abstract Syntax Notation 1"
+    },
+    {
+        "id": "107",
+        "acro": "ASP",
+        "full_form": "Application Service Provider"
+    },
+    {
+        "id": "108",
+        "acro": "ASR",
+        "full_form": "Asynchronous Signal Routine"
+    },
+    {
+        "id": "109",
+        "acro": "ASSP",
+        "full_form": "Application Specific Standard Product"
+    },
+    {
+        "id": "110",
+        "acro": "AST",
+        "full_form": "Abstract Syntax Tree"
+    },
+    {
+        "id": "111",
+        "acro": "AT",
+        "full_form": "Advanced Technology"
+    },
+    {
+        "id": "112",
+        "acro": "AT",
+        "full_form": "Access Time"
+    },
+    {
+        "id": "113",
+        "acro": "AT",
+        "full_form": "Active Terminator"
+    },
+    {
+        "id": "114",
+        "acro": "ATA",
+        "full_form": "Advanced Technology Attachment"
+    },
+    {
+        "id": "115",
+        "acro": "ATAG",
+        "full_form": "Authoring Tool Accessibility Guidelines"
+    },
+    {
+        "id": "116",
+        "acro": "ATAPI",
+        "full_form": "Advanced Technology Attachment Packet Interface"
+    },
+    {
+        "id": "117",
+        "acro": "ATM",
+        "full_form": "Asynchronous Transfer Mode"
+    },
+    {
+        "id": "118",
+        "acro": "AVC",
+        "full_form": "Advanced Video Coding"
+    },
+    {
+        "id": "119",
+        "acro": "AVI",
+        "full_form": "Audio Video Interleaved"
+    },
+    {
+        "id": "120",
+        "acro": "AWT",
+        "full_form": "Abstract Windowing Toolkit"
+    },
+    {
+        "id": "121",
+        "acro": "B2B",
+        "full_form": "Business-to-Business"
+    },
+    {
+        "id": "122",
+        "acro": "B2C",
+        "full_form": "Business-to-Consumer"
+    },
+    {
+        "id": "123",
+        "acro": "Bash",
+        "full_form": "Bourne-again shell"
+    },
+    {
+        "id": "124",
+        "acro": "BASIC",
+        "full_form": "Beginners All-Purpose Symbolic Instruction Code"
+    },
+    {
+        "id": "125",
+        "acro": "BBP",
+        "full_form": "Baseband Processor"
+    },
+    {
+        "id": "126",
+        "acro": "BBS",
+        "full_form": "Bulletin Board System"
+    },
+    {
+        "id": "127",
+        "acro": "BCD",
+        "full_form": "Binary Coded Decimal"
+    },
+    {
+        "id": "128",
+        "acro": "BEEP",
+        "full_form": "Blocks Extensible Exchange Protocol"
+    },
+    {
+        "id": "129",
+        "acro": "BER",
+        "full_form": "Bit Error Rate"
+    },
+    {
+        "id": "130",
+        "acro": "BFD",
+        "full_form": "Binary File Descriptor"
+    },
+    {
+        "id": "131",
+        "acro": "BFS",
+        "full_form": "Breadth-First Search"
+    },
+    {
+        "id": "132",
+        "acro": "BGP",
+        "full_form": "Border Gateway Protocol"
+    },
+    {
+        "id": "133",
+        "acro": "BiDi",
+        "full_form": "Bi-Directional"
+    },
+    {
+        "id": "134",
+        "acro": "bin",
+        "full_form": "binary"
+    },
+    {
+        "id": "135",
+        "acro": "BINAC",
+        "full_form": "Binary Automatic Computer"
+    },
+    {
+        "id": "136",
+        "acro": "BIND",
+        "full_form": "Berkeley Internet Name Daemon"
+    },
+    {
+        "id": "137",
+        "acro": "BIOS",
+        "full_form": "Basic Input Output System"
+    },
+    {
+        "id": "138",
+        "acro": "bit",
+        "full_form": "binary digit"
+    },
+    {
+        "id": "139",
+        "acro": "BJT",
+        "full_form": "Bipolar Junction Transistor"
+    },
+    {
+        "id": "140",
+        "acro": "Blob",
+        "full_form": "Binary large object"
+    },
+    {
+        "id": "141",
+        "acro": "Blog",
+        "full_form": "Web Log"
+    },
+    {
+        "id": "142",
+        "acro": "BMP",
+        "full_form": "Basic Multilingual Plane"
+    },
+    {
+        "id": "143",
+        "acro": "BNC",
+        "full_form": "Bayonet Neill-Concelman"
+    },
+    {
+        "id": "144",
+        "acro": "BOINC",
+        "full_form": "Berkeley Open Infrastructure for Network Computing"
+    },
+    {
+        "id": "145",
+        "acro": "BOM",
+        "full_form": "Byte Order Mark"
+    },
+    {
+        "id": "146",
+        "acro": "BOOTP",
+        "full_form": "Bootstrap Protocol"
+    },
+    {
+        "id": "147",
+        "acro": "BPDU",
+        "full_form": "Bridge Protocol Data Unit"
+    },
+    {
+        "id": "148",
+        "acro": "BPEL",
+        "full_form": "Business Process Execution Language"
+    },
+    {
+        "id": "149",
+        "acro": "BPL",
+        "full_form": "Broadband over Power Lines"
+    },
+    {
+        "id": "150",
+        "acro": "bps",
+        "full_form": "bits per second"
+    },
+    {
+        "id": "151",
+        "acro": "BRR",
+        "full_form": "Business Readiness Rating"
+    },
+    {
+        "id": "152",
+        "acro": "BSA",
+        "full_form": "Business Software Alliance"
+    },
+    {
+        "id": "153",
+        "acro": "BSD",
+        "full_form": "Berkeley Software Distribution (Unix variant)"
+    },
+    {
+        "id": "154",
+        "acro": "BSoD",
+        "full_form": "Blue Screen of Death"
+    },
+    {
+        "id": "155",
+        "acro": "BSS",
+        "full_form": "Block Started by Symbol"
+    },
+    {
+        "id": "156",
+        "acro": "BT",
+        "full_form": "Bluetooth"
+    },
+    {
+        "id": "157",
+        "acro": "BT",
+        "full_form": "BitTorrent"
+    },
+    {
+        "id": "158",
+        "acro": "BTAM",
+        "full_form": "Basic Telecommunications Access Method (an IBM OS\/360 API)"
+    },
+    {
+        "id": "159",
+        "acro": "BW",
+        "full_form": "Bandwidth"
+    },
+    {
+        "id": "160",
+        "acro": "CA",
+        "full_form": "Certificate Authority"
+    },
+    {
+        "id": "161",
+        "acro": "CAD",
+        "full_form": "Computer-Aided Design"
+    },
+    {
+        "id": "162",
+        "acro": "CAE",
+        "full_form": "Computer-Aided Engineering"
+    },
+    {
+        "id": "163",
+        "acro": "CAI",
+        "full_form": "Computer-Aided Instruction"
+    },
+    {
+        "id": "164",
+        "acro": "CAID",
+        "full_form": "Computer Aided Industrial Design"
+    },
+    {
+        "id": "165",
+        "acro": "CALL",
+        "full_form": "Computer Assisted Language Learning"
+    },
+    {
+        "id": "166",
+        "acro": "CAM",
+        "full_form": "Computer-Aided Manufacturing"
+    },
+    {
+        "id": "167",
+        "acro": "CAPTCHA",
+        "full_form": "Completely Automated Public Turing Test to tell Computers and Humans Apart"
+    },
+    {
+        "id": "168",
+        "acro": "CAQ",
+        "full_form": "Computer Aided Quality"
+    },
+    {
+        "id": "169",
+        "acro": "CASE",
+        "full_form": "Computer-Aided Software Engineering"
+    },
+    {
+        "id": "170",
+        "acro": "CAT",
+        "full_form": "Computer-Aided Translation"
+    },
+    {
+        "id": "171",
+        "acro": "cc",
+        "full_form": "C Compiler"
+    },
+    {
+        "id": "172",
+        "acro": "CD",
+        "full_form": "Compact Disc"
+    },
+    {
+        "id": "173",
+        "acro": "CD-R",
+        "full_form": "CD-Recordable"
+    },
+    {
+        "id": "174",
+        "acro": "CD-ROM",
+        "full_form": "CD Read-Only Memory"
+    },
+    {
+        "id": "175",
+        "acro": "CD-RW",
+        "full_form": "CD-Rewritable"
+    },
+    {
+        "id": "176",
+        "acro": "CDE",
+        "full_form": "Common Desktop Environment"
+    },
+    {
+        "id": "177",
+        "acro": "CDMA",
+        "full_form": "Code Division Multiple Access"
+    },
+    {
+        "id": "178",
+        "acro": "CDN",
+        "full_form": "Content Delivery Network"
+    },
+    {
+        "id": "179",
+        "acro": "CDP",
+        "full_form": "Continuous Data Protection"
+    },
+    {
+        "id": "180",
+        "acro": "CDSA",
+        "full_form": "Common Data Security Architecture"
+    },
+    {
+        "id": "181",
+        "acro": "CERT",
+        "full_form": "Computer Emergency Response Team"
+    },
+    {
+        "id": "182",
+        "acro": "CES",
+        "full_form": "Consumer Electronics Show"
+    },
+    {
+        "id": "183",
+        "acro": "CF",
+        "full_form": "Compact Flash"
+    },
+    {
+        "id": "184",
+        "acro": "CFD",
+        "full_form": "Computational Fluid Dynamics"
+    },
+    {
+        "id": "185",
+        "acro": "CFG",
+        "full_form": "Control Flow Graph"
+    },
+    {
+        "id": "186",
+        "acro": "CFWS",
+        "full_form": "Comment and\/or Folding White Space"
+    },
+    {
+        "id": "187",
+        "acro": "CG",
+        "full_form": "Computer Graphics"
+    },
+    {
+        "id": "188",
+        "acro": "CGA",
+        "full_form": "Color Graphics Array"
+    },
+    {
+        "id": "189",
+        "acro": "CGI",
+        "full_form": "Common Gateway Interface"
+    },
+    {
+        "id": "190",
+        "acro": "CGI",
+        "full_form": "Computer Generated Imagery"
+    },
+    {
+        "id": "191",
+        "acro": "CGT",
+        "full_form": "Computational Graph Theory"
+    },
+    {
+        "id": "192",
+        "acro": "CHAP",
+        "full_form": "Challenge-Handshake Authentication Protocol"
+    },
+    {
+        "id": "193",
+        "acro": "CHS",
+        "full_form": "Cylinder-Head-Sector"
+    },
+    {
+        "id": "194",
+        "acro": "CIFS",
+        "full_form": "Common Internet Filesystem"
+    },
+    {
+        "id": "195",
+        "acro": "CIM",
+        "full_form": "Common Information Model"
+    },
+    {
+        "id": "196",
+        "acro": "CISC",
+        "full_form": "Complex Instruction Set Computer"
+    },
+    {
+        "id": "197",
+        "acro": "CJK",
+        "full_form": "Chinese, Japanese, and Korean"
+    },
+    {
+        "id": "198",
+        "acro": "CJKV",
+        "full_form": "Chinese, Japanese, Korean, and Vietnamese"
+    },
+    {
+        "id": "199",
+        "acro": "CLI",
+        "full_form": "Command Line Interface"
+    },
+    {
+        "id": "200",
+        "acro": "CLR",
+        "full_form": "Common Language Runtime"
+    },
+    {
+        "id": "201",
+        "acro": "CM",
+        "full_form": "Content Management"
+    },
+    {
+        "id": "202",
+        "acro": "CM",
+        "full_form": "Configuration Management"
+    },
+    {
+        "id": "203",
+        "acro": "CMMI",
+        "full_form": "Capability Maturity Model Integration"
+    },
+    {
+        "id": "204",
+        "acro": "CMOS",
+        "full_form": "Complementary Metal-Oxide Semiconductor"
+    },
+    {
+        "id": "205",
+        "acro": "CMS",
+        "full_form": "Content Management System"
+    },
+    {
+        "id": "206",
+        "acro": "CN",
+        "full_form": "Common Name"
+    },
+    {
+        "id": "207",
+        "acro": "CN",
+        "full_form": "Canonical Name"
+    },
+    {
+        "id": "208",
+        "acro": "CNC",
+        "full_form": "Computer Numerical Control"
+    },
+    {
+        "id": "209",
+        "acro": "CNR",
+        "full_form": "Communications and Networking Riser"
+    },
+    {
+        "id": "210",
+        "acro": "COBOL",
+        "full_form": "Common Business-Oriented Language"
+    },
+    {
+        "id": "211",
+        "acro": "COM",
+        "full_form": "Component Object Model"
+    },
+    {
+        "id": "212",
+        "acro": "COMPUTER",
+        "full_form": "Common Operating Machine Purposely Used for Technological and Educational Research"
+    },
+    {
+        "id": "213",
+        "acro": "CORBA",
+        "full_form": "Common Object Request Broker Architecture"
+    },
+    {
+        "id": "214",
+        "acro": "COTS",
+        "full_form": "Commercial Off-The-Shelf"
+    },
+    {
+        "id": "215",
+        "acro": "CP\/M",
+        "full_form": "Control Program\/Monitor"
+    },
+    {
+        "id": "216",
+        "acro": "CPA",
+        "full_form": "Cell Processor Architecture"
+    },
+    {
+        "id": "217",
+        "acro": "CPA",
+        "full_form": "Converged Packet Access"
+    },
+    {
+        "id": "218",
+        "acro": "CPA",
+        "full_form": "Control Panel Applet"
+    },
+    {
+        "id": "219",
+        "acro": "CPAN",
+        "full_form": "Comprehensive Perl Archive Network"
+    },
+    {
+        "id": "220",
+        "acro": "cps",
+        "full_form": "characters per second"
+    },
+    {
+        "id": "221",
+        "acro": "CPU",
+        "full_form": "Central Processing Unit"
+    },
+    {
+        "id": "222",
+        "acro": "CR",
+        "full_form": "Carriage Return"
+    },
+    {
+        "id": "223",
+        "acro": "CRAN",
+        "full_form": "Comprehensive R Archive Network"
+    },
+    {
+        "id": "224",
+        "acro": "CRC",
+        "full_form": "Cyclic Redundancy Check"
+    },
+    {
+        "id": "225",
+        "acro": "CRLF",
+        "full_form": "Carriage Return Line Feed"
+    },
+    {
+        "id": "226",
+        "acro": "CRM",
+        "full_form": "Customer Relationship Management"
+    },
+    {
+        "id": "227",
+        "acro": "CRT",
+        "full_form": "Cathode Ray Tube"
+    },
+    {
+        "id": "228",
+        "acro": "CS",
+        "full_form": "Computer Science"
+    },
+    {
+        "id": "229",
+        "acro": "CS",
+        "full_form": "Cable Select"
+    },
+    {
+        "id": "230",
+        "acro": "CSE",
+        "full_form": "Computer Science and Engineering"
+    },
+    {
+        "id": "231",
+        "acro": "CSI",
+        "full_form": "Common System Interface"
+    },
+    {
+        "id": "232",
+        "acro": "CSRF",
+        "full_form": "Cross-Site Request Forgery"
+    },
+    {
+        "id": "233",
+        "acro": "CSS",
+        "full_form": "Cascading Style Sheets"
+    },
+    {
+        "id": "234",
+        "acro": "CSS",
+        "full_form": "Content-Scrambling System"
+    },
+    {
+        "id": "235",
+        "acro": "CSS",
+        "full_form": "Closed Source Software"
+    },
+    {
+        "id": "236",
+        "acro": "CSV",
+        "full_form": "Comma-Separated Values"
+    },
+    {
+        "id": "237",
+        "acro": "CT",
+        "full_form": "Computerized Tomography"
+    },
+    {
+        "id": "238",
+        "acro": "CTAN",
+        "full_form": "Comprehensive TeX Archive Network"
+    },
+    {
+        "id": "239",
+        "acro": "CTCP",
+        "full_form": "Client-To-Client Protocol"
+    },
+    {
+        "id": "240",
+        "acro": "CTI",
+        "full_form": "Computer Telephony Integration"
+    },
+    {
+        "id": "241",
+        "acro": "CTL",
+        "full_form": "Computational Tree Logic"
+    },
+    {
+        "id": "242",
+        "acro": "CTM",
+        "full_form": "Close To Metal"
+    },
+    {
+        "id": "243",
+        "acro": "CTS",
+        "full_form": "Clear To Send"
+    },
+    {
+        "id": "244",
+        "acro": "CTSS",
+        "full_form": "Compatible Time-Sharing System"
+    },
+    {
+        "id": "245",
+        "acro": "CUA",
+        "full_form": "Common User Access"
+    },
+    {
+        "id": "246",
+        "acro": "CVS",
+        "full_form": "Concurrent Versioning System"
+    },
+    {
+        "id": "247",
+        "acro": "DAC",
+        "full_form": "Digital-To-Analog Converter"
+    },
+    {
+        "id": "248",
+        "acro": "DAC",
+        "full_form": "Discretionary Access Control"
+    },
+    {
+        "id": "249",
+        "acro": "DAO",
+        "full_form": "Data Access Objects"
+    },
+    {
+        "id": "250",
+        "acro": "DAO",
+        "full_form": "Disk-At-Once"
+    },
+    {
+        "id": "251",
+        "acro": "DAP",
+        "full_form": "Directory Access Protocol"
+    },
+    {
+        "id": "252",
+        "acro": "DARPA",
+        "full_form": "Defense Advanced Research Projects Agency"
+    },
+    {
+        "id": "253",
+        "acro": "DAT",
+        "full_form": "Digital Audio Tape"
+    },
+    {
+        "id": "254",
+        "acro": "DB",
+        "full_form": "Database"
+    },
+    {
+        "id": "255",
+        "acro": "DBA",
+        "full_form": "Database Administrator"
+    },
+    {
+        "id": "256",
+        "acro": "DBCS",
+        "full_form": "Double Byte Character Set"
+    },
+    {
+        "id": "257",
+        "acro": "DBMS",
+        "full_form": "Database Management System"
+    },
+    {
+        "id": "258",
+        "acro": "DCC",
+        "full_form": "Direct Client-to-Client"
+    },
+    {
+        "id": "259",
+        "acro": "DCCA",
+        "full_form": "Debian Common Core Alliance"
+    },
+    {
+        "id": "260",
+        "acro": "DCL",
+        "full_form": "Data Control Language"
+    },
+    {
+        "id": "261",
+        "acro": "DCMI",
+        "full_form": "Dublin Core Metadata Initiative"
+    },
+    {
+        "id": "262",
+        "acro": "DCOM",
+        "full_form": "Distributed Component Object Model"
+    },
+    {
+        "id": "263",
+        "acro": "DD",
+        "full_form": "Double Density"
+    },
+    {
+        "id": "264",
+        "acro": "DDE",
+        "full_form": "Dynamic Data Exchange"
+    },
+    {
+        "id": "265",
+        "acro": "DDL",
+        "full_form": "Data Definition Language"
+    },
+    {
+        "id": "266",
+        "acro": "DDoS",
+        "full_form": "Distributed Denial of Service"
+    },
+    {
+        "id": "267",
+        "acro": "DDR",
+        "full_form": "Double Data Rate"
+    },
+    {
+        "id": "268",
+        "acro": "DEC",
+        "full_form": "Digital Equipment Corporation"
+    },
+    {
+        "id": "269",
+        "acro": "DES",
+        "full_form": "Data Encryption Standard"
+    },
+    {
+        "id": "270",
+        "acro": "dev",
+        "full_form": "development"
+    },
+    {
+        "id": "271",
+        "acro": "DFA",
+        "full_form": "Deterministic Finite Automaton"
+    },
+    {
+        "id": "272",
+        "acro": "DFD",
+        "full_form": "Data Flow Diagram"
+    },
+    {
+        "id": "273",
+        "acro": "DFS",
+        "full_form": "Distributed File System"
+    },
+    {
+        "id": "274",
+        "acro": "DFS",
+        "full_form": "Depth First Search"
+    },
+    {
+        "id": "275",
+        "acro": "DHCP",
+        "full_form": "Dynamic Host Configuration Protocol"
+    },
+    {
+        "id": "276",
+        "acro": "DHTML",
+        "full_form": "Dynamic HTML"
+    },
+    {
+        "id": "277",
+        "acro": "DIMM",
+        "full_form": "Dual Inline Memory Module"
+    },
+    {
+        "id": "278",
+        "acro": "DIN",
+        "full_form": "Deutsches Institut f\u00fcr Normung"
+    },
+    {
+        "id": "279",
+        "acro": "DIP",
+        "full_form": "Dual In-line Package"
+    },
+    {
+        "id": "280",
+        "acro": "DIVX",
+        "full_form": "Digital Video Express"
+    },
+    {
+        "id": "281",
+        "acro": "DIY",
+        "full_form": "Do It Yourself devices"
+    },
+    {
+        "id": "282",
+        "acro": "DKIM",
+        "full_form": "Domain Keys Identified Mail"
+    },
+    {
+        "id": "283",
+        "acro": "DL",
+        "full_form": "Download"
+    },
+    {
+        "id": "284",
+        "acro": "DLL",
+        "full_form": "Dynamic Link Library"
+    },
+    {
+        "id": "285",
+        "acro": "DLP",
+        "full_form": "Digital Light Processing"
+    },
+    {
+        "id": "286",
+        "acro": "DMA",
+        "full_form": "Direct Memory Access"
+    },
+    {
+        "id": "287",
+        "acro": "DMCA",
+        "full_form": "Digital Millennium Copyright Act"
+    },
+    {
+        "id": "288",
+        "acro": "DML",
+        "full_form": "Data Manipulation Language"
+    },
+    {
+        "id": "289",
+        "acro": "DMR",
+        "full_form": "Dennis M. Ritchie"
+    },
+    {
+        "id": "290",
+        "acro": "DN",
+        "full_form": "Distinguished Name"
+    },
+    {
+        "id": "291",
+        "acro": "DND",
+        "full_form": "Drag-and-Drop"
+    },
+    {
+        "id": "292",
+        "acro": "DNS",
+        "full_form": "Domain Name System"
+    },
+    {
+        "id": "1104",
+        "acro": "Doc",
+        "full_form": "Document (file format extension)"
+    },
+    {
+        "id": "293",
+        "acro": "DOCSIS",
+        "full_form": "Data Over Cable Service Interface Specification"
+    },
+    {
+        "id": "294",
+        "acro": "DOM",
+        "full_form": "Document Object Model"
+    },
+    {
+        "id": "295",
+        "acro": "DoS",
+        "full_form": "Disk Operating System"
+    },
+    {
+        "id": "296",
+        "acro": "DoS",
+        "full_form": "Denial of Service"
+    },
+    {
+        "id": "297",
+        "acro": "DP",
+        "full_form": "Dot Pitch"
+    },
+    {
+        "id": "298",
+        "acro": "DPI",
+        "full_form": "Dots Per Inch"
+    },
+    {
+        "id": "299",
+        "acro": "DPMI",
+        "full_form": "DOS Protected Mode Interface"
+    },
+    {
+        "id": "300",
+        "acro": "DPMS",
+        "full_form": "Display Power Management Signaling"
+    },
+    {
+        "id": "301",
+        "acro": "DRAM",
+        "full_form": "Dynamic Random Access Memory"
+    },
+    {
+        "id": "302",
+        "acro": "DRI",
+        "full_form": "Direct Rendering Infrastructure"
+    },
+    {
+        "id": "303",
+        "acro": "DRM",
+        "full_form": "Digital Rights Management"
+    },
+    {
+        "id": "304",
+        "acro": "DRM",
+        "full_form": "Direct Rendering Manager"
+    },
+    {
+        "id": "305",
+        "acro": "DSDL",
+        "full_form": "Document Schema Definition Languages"
+    },
+    {
+        "id": "306",
+        "acro": "DSDM",
+        "full_form": "Dynamic Systems Development Method"
+    },
+    {
+        "id": "307",
+        "acro": "DSL",
+        "full_form": "Digital Subscriber Line"
+    },
+    {
+        "id": "308",
+        "acro": "DSL",
+        "full_form": "Domain Specific Language"
+    },
+    {
+        "id": "309",
+        "acro": "DSLAM",
+        "full_form": "Digital subscriber line access multiplexer"
+    },
+    {
+        "id": "310",
+        "acro": "DSN",
+        "full_form": "Database Source Name (ODBC)"
+    },
+    {
+        "id": "311",
+        "acro": "DSP",
+        "full_form": "Digital Signal Processor"
+    },
+    {
+        "id": "312",
+        "acro": "DSSSL",
+        "full_form": "Document Style Semantics and Specification Language"
+    },
+    {
+        "id": "313",
+        "acro": "DTD",
+        "full_form": "Document Type Definition"
+    },
+    {
+        "id": "314",
+        "acro": "DTE",
+        "full_form": "Data Terminal Equipment"
+    },
+    {
+        "id": "315",
+        "acro": "DTP",
+        "full_form": "Desktop Publishing"
+    },
+    {
+        "id": "316",
+        "acro": "DTR",
+        "full_form": "Data Terminal Ready"
+    },
+    {
+        "id": "317",
+        "acro": "DVD",
+        "full_form": "Digital Versatile Disc"
+    },
+    {
+        "id": "318",
+        "acro": "DVD-R",
+        "full_form": "DVD-Recordable"
+    },
+    {
+        "id": "319",
+        "acro": "DVD-ROM",
+        "full_form": "DVD-Read Only Memory"
+    },
+    {
+        "id": "320",
+        "acro": "DVD-RW",
+        "full_form": "DVD-Rewritable"
+    },
+    {
+        "id": "321",
+        "acro": "DVI",
+        "full_form": "Digital Visual Interface"
+    },
+    {
+        "id": "322",
+        "acro": "DVR",
+        "full_form": "Digital Video Recorder (see also PVR)"
+    },
+    {
+        "id": "323",
+        "acro": "EAI",
+        "full_form": "Enterprise Application Integration"
+    },
+    {
+        "id": "324",
+        "acro": "EAP",
+        "full_form": "Extensible Authentication Protocol"
+    },
+    {
+        "id": "325",
+        "acro": "EBCDIC",
+        "full_form": "Extended Binary Coded Decimal Interchange Code"
+    },
+    {
+        "id": "326",
+        "acro": "EBML",
+        "full_form": "Extensible Binary Meta Language"
+    },
+    {
+        "id": "327",
+        "acro": "ECC",
+        "full_form": "Elliptic Curve Cryptography"
+    },
+    {
+        "id": "328",
+        "acro": "ECMA",
+        "full_form": "European Computer Manufacturers Association"
+    },
+    {
+        "id": "329",
+        "acro": "EDA",
+        "full_form": "Electronic Design Automation"
+    },
+    {
+        "id": "330",
+        "acro": "EDI",
+        "full_form": "Electronic Data Interchange"
+    },
+    {
+        "id": "331",
+        "acro": "EDO",
+        "full_form": "Extended Data Out"
+    },
+    {
+        "id": "332",
+        "acro": "EDSAC",
+        "full_form": "Electronic Delay Storage Automatic Computer"
+    },
+    {
+        "id": "333",
+        "acro": "EDVAC",
+        "full_form": "Electronic Discrete Variable Automatic Computer"
+    },
+    {
+        "id": "334",
+        "acro": "EEPROM",
+        "full_form": "Electronically-Erasable Programmable Read-Only Memory"
+    },
+    {
+        "id": "335",
+        "acro": "EFF",
+        "full_form": "Electronic Frontier Foundation"
+    },
+    {
+        "id": "336",
+        "acro": "EFI",
+        "full_form": "Extensible Firmware Interface"
+    },
+    {
+        "id": "337",
+        "acro": "EFM",
+        "full_form": "Eight-to-Fourteen Modulation"
+    },
+    {
+        "id": "338",
+        "acro": "EGA",
+        "full_form": "Enhanced Graphics Array"
+    },
+    {
+        "id": "339",
+        "acro": "EGP",
+        "full_form": "Exterior Gateway Protocol"
+    },
+    {
+        "id": "340",
+        "acro": "eID",
+        "full_form": "electronic ID card"
+    },
+    {
+        "id": "341",
+        "acro": "EIDE",
+        "full_form": "Enhanced IDE"
+    },
+    {
+        "id": "342",
+        "acro": "EIGRP",
+        "full_form": "Enhanced Interior Gateway Routing Protocol"
+    },
+    {
+        "id": "343",
+        "acro": "EISA",
+        "full_form": "Extended Industry Standard Architecture"
+    },
+    {
+        "id": "344",
+        "acro": "ELF",
+        "full_form": "Extremely Low Frequency"
+    },
+    {
+        "id": "345",
+        "acro": "ELF",
+        "full_form": "Executable and Linkable Format"
+    },
+    {
+        "id": "346",
+        "acro": "ELM",
+        "full_form": "Electronic Mail"
+    },
+    {
+        "id": "347",
+        "acro": "EMACS",
+        "full_form": "Editor Macros"
+    },
+    {
+        "id": "348",
+        "acro": "EMS",
+        "full_form": "Expanded Memory Specification"
+    },
+    {
+        "id": "349",
+        "acro": "ENIAC",
+        "full_form": "Electronic Numerical Integrator And Computer"
+    },
+    {
+        "id": "350",
+        "acro": "EOF",
+        "full_form": "End of File"
+    },
+    {
+        "id": "351",
+        "acro": "EOL",
+        "full_form": "End of Life"
+    },
+    {
+        "id": "352",
+        "acro": "EOL",
+        "full_form": "End of Line"
+    },
+    {
+        "id": "353",
+        "acro": "EOM",
+        "full_form": "End of Message"
+    },
+    {
+        "id": "354",
+        "acro": "EPROM",
+        "full_form": "Erasable Programmable Read-Only Memory"
+    },
+    {
+        "id": "355",
+        "acro": "ERP",
+        "full_form": "Enterprise Resource Planning"
+    },
+    {
+        "id": "356",
+        "acro": "ESCON",
+        "full_form": "Enterprise Systems Connection"
+    },
+    {
+        "id": "357",
+        "acro": "ESD",
+        "full_form": "Electrostatic Discharge"
+    },
+    {
+        "id": "358",
+        "acro": "ESR",
+        "full_form": "Eric Steven Raymond"
+    },
+    {
+        "id": "359",
+        "acro": "ETL",
+        "full_form": "Extract, Transform, Load"
+    },
+    {
+        "id": "360",
+        "acro": "EUC",
+        "full_form": "Extended Unix Code"
+    },
+    {
+        "id": "361",
+        "acro": "EULA",
+        "full_form": "End User License Agreement"
+    },
+    {
+        "id": "362",
+        "acro": "EXE",
+        "full_form": "EXEcutable"
+    },
+    {
+        "id": "363",
+        "acro": "FAP",
+        "full_form": "FORTRAN Assembly Program"
+    },
+    {
+        "id": "364",
+        "acro": "FAQ",
+        "full_form": "Frequently Asked Questions"
+    },
+    {
+        "id": "365",
+        "acro": "FAT",
+        "full_form": "File Allocation Table"
+    },
+    {
+        "id": "366",
+        "acro": "FBDIMM",
+        "full_form": "Fully Buffered Dual Inline Memory Module"
+    },
+    {
+        "id": "367",
+        "acro": "FC-AL",
+        "full_form": "Fiber Channel Arbitrated Loop"
+    },
+    {
+        "id": "368",
+        "acro": "FCB",
+        "full_form": "File Control Block"
+    },
+    {
+        "id": "369",
+        "acro": "FCS",
+        "full_form": "Frame Check Sequence"
+    },
+    {
+        "id": "370",
+        "acro": "FDC",
+        "full_form": "Floppy Disk Controller"
+    },
+    {
+        "id": "371",
+        "acro": "FDD",
+        "full_form": "Floppy Disk Drive"
+    },
+    {
+        "id": "372",
+        "acro": "FDDI",
+        "full_form": "Fiber Distributed Data Interface"
+    },
+    {
+        "id": "373",
+        "acro": "FDMA",
+        "full_form": "Frequency-Division Multiple Access"
+    },
+    {
+        "id": "374",
+        "acro": "FDS",
+        "full_form": "Fedora Directory Server"
+    },
+    {
+        "id": "375",
+        "acro": "FEC",
+        "full_form": "Forward Error Correction"
+    },
+    {
+        "id": "376",
+        "acro": "FEMB",
+        "full_form": "Front-End Motherboard"
+    },
+    {
+        "id": "377",
+        "acro": "FET",
+        "full_form": "Field Effect Transistor"
+    },
+    {
+        "id": "378",
+        "acro": "FHS",
+        "full_form": "Filesystem Hierarchy Standard"
+    },
+    {
+        "id": "379",
+        "acro": "FICON",
+        "full_form": "Fiber Connectivity"
+    },
+    {
+        "id": "380",
+        "acro": "FIFO",
+        "full_form": "First In First Out"
+    },
+    {
+        "id": "381",
+        "acro": "FLAC",
+        "full_form": "Free Lossless Audio Codec"
+    },
+    {
+        "id": "382",
+        "acro": "FLOPS",
+        "full_form": "FLoating-Point Operations Per Second"
+    },
+    {
+        "id": "383",
+        "acro": "FLOSS",
+        "full_form": "Free\/Libre\/Open Source Software"
+    },
+    {
+        "id": "384",
+        "acro": "FOLDOC",
+        "full_form": "Free On-line Dictionary of Computing"
+    },
+    {
+        "id": "385",
+        "acro": "FOSDEM",
+        "full_form": "Free and Open source Software Developers European Meeting"
+    },
+    {
+        "id": "386",
+        "acro": "FOSI",
+        "full_form": "Formatted Output Specification Instance"
+    },
+    {
+        "id": "387",
+        "acro": "FOSS",
+        "full_form": "Free and Open Source Software"
+    },
+    {
+        "id": "388",
+        "acro": "FPGA",
+        "full_form": "Field Programmable Gate Array"
+    },
+    {
+        "id": "389",
+        "acro": "FPU",
+        "full_form": "Floating Point Unit"
+    },
+    {
+        "id": "390",
+        "acro": "FQDN",
+        "full_form": "Fully Qualified Domain Name"
+    },
+    {
+        "id": "391",
+        "acro": "FS",
+        "full_form": "File System"
+    },
+    {
+        "id": "392",
+        "acro": "FSB",
+        "full_form": "Front Side Bus"
+    },
+    {
+        "id": "393",
+        "acro": "FSF",
+        "full_form": "Free Software Foundation"
+    },
+    {
+        "id": "394",
+        "acro": "FSM",
+        "full_form": "Finite State Machine"
+    },
+    {
+        "id": "395",
+        "acro": "FTP",
+        "full_form": "File Transfer Protocol"
+    },
+    {
+        "id": "396",
+        "acro": "FTTC",
+        "full_form": "Fiber To The Curb"
+    },
+    {
+        "id": "397",
+        "acro": "FTTH",
+        "full_form": "Fiber To The Home"
+    },
+    {
+        "id": "398",
+        "acro": "FTTP",
+        "full_form": "Fiber To The Premises"
+    },
+    {
+        "id": "399",
+        "acro": "FUCT",
+        "full_form": "Failed Under Continuous Test"
+    },
+    {
+        "id": "400",
+        "acro": "FUD",
+        "full_form": "Fear Uncertainty Doubt"
+    },
+    {
+        "id": "401",
+        "acro": "FWS",
+        "full_form": "Folding White Space"
+    },
+    {
+        "id": "402",
+        "acro": "FXP",
+        "full_form": "File eXchange Protocol"
+    },
+    {
+        "id": "403",
+        "acro": "G11N",
+        "full_form": "Globalization"
+    },
+    {
+        "id": "404",
+        "acro": "GB",
+        "full_form": "Gigabyte"
+    },
+    {
+        "id": "405",
+        "acro": "Gb",
+        "full_form": "Gigabit"
+    },
+    {
+        "id": "406",
+        "acro": "GCC",
+        "full_form": "GNU Compiler Collection (formerly GNU C Compiler)"
+    },
+    {
+        "id": "407",
+        "acro": "GCJ",
+        "full_form": "GNU Compiler for Java"
+    },
+    {
+        "id": "408",
+        "acro": "GCR",
+        "full_form": "Group Code Recording"
+    },
+    {
+        "id": "409",
+        "acro": "GDB",
+        "full_form": "GNU Debugger"
+    },
+    {
+        "id": "410",
+        "acro": "GDI",
+        "full_form": "Graphics Device Interface"
+    },
+    {
+        "id": "411",
+        "acro": "GFDL",
+        "full_form": "GNU Free Documentation License"
+    },
+    {
+        "id": "412",
+        "acro": "GIF",
+        "full_form": "Graphics Interchange Format"
+    },
+    {
+        "id": "413",
+        "acro": "GIGO",
+        "full_form": "Garbage In, Garbage Out"
+    },
+    {
+        "id": "414",
+        "acro": "GIMP",
+        "full_form": "GNU Image Manipulation Program"
+    },
+    {
+        "id": "415",
+        "acro": "GIMPS",
+        "full_form": "Great Internet Mersenne Prime Search"
+    },
+    {
+        "id": "416",
+        "acro": "GIS",
+        "full_form": "Geographic Information System"
+    },
+    {
+        "id": "417",
+        "acro": "GLUT",
+        "full_form": "OpenGL Utility Toolkit"
+    },
+    {
+        "id": "418",
+        "acro": "GML",
+        "full_form": "Geography Markup Language"
+    },
+    {
+        "id": "419",
+        "acro": "GNOME",
+        "full_form": "GNU Network Object Model Environment"
+    },
+    {
+        "id": "420",
+        "acro": "GNSCB",
+        "full_form": "Next-Generation Secure Computing Base"
+    },
+    {
+        "id": "421",
+        "acro": "GNU",
+        "full_form": "GNUs Not Unix"
+    },
+    {
+        "id": "422",
+        "acro": "GOMS",
+        "full_form": "Goals, Operators, Methods, and Selection rules"
+    },
+    {
+        "id": "423",
+        "acro": "GPG",
+        "full_form": "GNU Privacy Guard"
+    },
+    {
+        "id": "424",
+        "acro": "GPGPU",
+        "full_form": "General-Purpose Computing on Graphics Processing Units"
+    },
+    {
+        "id": "425",
+        "acro": "GPIB",
+        "full_form": "General-Purpose Instrumentation Bus"
+    },
+    {
+        "id": "426",
+        "acro": "GPL",
+        "full_form": "General Public License"
+    },
+    {
+        "id": "427",
+        "acro": "GPL",
+        "full_form": "General Purpose Language"
+    },
+    {
+        "id": "428",
+        "acro": "GPRS",
+        "full_form": "General Packet Radio Service"
+    },
+    {
+        "id": "429",
+        "acro": "GPT",
+        "full_form": "GUID Partition Table"
+    },
+    {
+        "id": "430",
+        "acro": "GPU",
+        "full_form": "Graphics Processing Unit"
+    },
+    {
+        "id": "431",
+        "acro": "GRUB",
+        "full_form": "Grand Unified Boot-Loader"
+    },
+    {
+        "id": "432",
+        "acro": "GSM",
+        "full_form": "Global System for Mobile Communications"
+    },
+    {
+        "id": "433",
+        "acro": "GTK+",
+        "full_form": "GIMP Toolkit"
+    },
+    {
+        "id": "434",
+        "acro": "GUI",
+        "full_form": "Graphical User Interface"
+    },
+    {
+        "id": "435",
+        "acro": "GUID",
+        "full_form": "Globally Unique IDentifier"
+    },
+    {
+        "id": "436",
+        "acro": "GWT",
+        "full_form": "Google Web Toolkit"
+    },
+    {
+        "id": "437",
+        "acro": "HAL",
+        "full_form": "Hardware Abstraction Layer"
+    },
+    {
+        "id": "438",
+        "acro": "HBA",
+        "full_form": "Host Bus Adapter"
+    },
+    {
+        "id": "439",
+        "acro": "HCI",
+        "full_form": "Human Computer Interaction"
+    },
+    {
+        "id": "440",
+        "acro": "HD",
+        "full_form": "High Density"
+    },
+    {
+        "id": "441",
+        "acro": "HD DVD",
+        "full_form": "High Definition DVD"
+    },
+    {
+        "id": "442",
+        "acro": "HDD",
+        "full_form": "Hard Disk Drive"
+    },
+    {
+        "id": "443",
+        "acro": "HDL",
+        "full_form": "Hardware Description Language"
+    },
+    {
+        "id": "444",
+        "acro": "HF",
+        "full_form": "High Frequency"
+    },
+    {
+        "id": "445",
+        "acro": "HHD",
+        "full_form": "Hybrid Hard Drive"
+    },
+    {
+        "id": "446",
+        "acro": "HID",
+        "full_form": "Human Interface Device"
+    },
+    {
+        "id": "447",
+        "acro": "HIG",
+        "full_form": "Human Interface Guidelines"
+    },
+    {
+        "id": "448",
+        "acro": "HIRD",
+        "full_form": "Hurd of Interfaces Representing Depth"
+    },
+    {
+        "id": "449",
+        "acro": "HMA",
+        "full_form": "High Memory Area"
+    },
+    {
+        "id": "450",
+        "acro": "HP",
+        "full_form": "Hewlett-Packard"
+    },
+    {
+        "id": "451",
+        "acro": "HPC",
+        "full_form": "High-Performance Computing"
+    },
+    {
+        "id": "452",
+        "acro": "HPFS",
+        "full_form": "High Performance File System"
+    },
+    {
+        "id": "453",
+        "acro": "HSM",
+        "full_form": "Hierarchical Storage Management"
+    },
+    {
+        "id": "454",
+        "acro": "HT",
+        "full_form": "Hyper Threading"
+    },
+    {
+        "id": "455",
+        "acro": "HTM",
+        "full_form": "Hierarchical Temporal Memory"
+    },
+    {
+        "id": "456",
+        "acro": "HTML",
+        "full_form": "Hypertext Markup Language"
+    },
+    {
+        "id": "457",
+        "acro": "HTTP",
+        "full_form": "Hypertext Transfer Protocol"
+    },
+    {
+        "id": "458",
+        "acro": "HTTPd",
+        "full_form": "Hypertext Transport Protocol Daemon"
+    },
+    {
+        "id": "459",
+        "acro": "HTTPS",
+        "full_form": "Hypertext Transfer Protocol Secure"
+    },
+    {
+        "id": "460",
+        "acro": "HTX",
+        "full_form": "HyperTransport eXpansion"
+    },
+    {
+        "id": "461",
+        "acro": "HURD",
+        "full_form": "Hird of Unix-Replacing Daemons"
+    },
+    {
+        "id": "462",
+        "acro": "HVD",
+        "full_form": "Holographic Versatile Disc"
+    },
+    {
+        "id": "463",
+        "acro": "Hz",
+        "full_form": "Hertz"
+    },
+    {
+        "id": "464",
+        "acro": "I\/O",
+        "full_form": "Input\/Output"
+    },
+    {
+        "id": "465",
+        "acro": "I18N",
+        "full_form": "Internationalization"
+    },
+    {
+        "id": "466",
+        "acro": "I2C",
+        "full_form": "Inter-Integrated Circuit"
+    },
+    {
+        "id": "467",
+        "acro": "IANA",
+        "full_form": "Internet Assigned Numbers Authority"
+    },
+    {
+        "id": "468",
+        "acro": "iBCS",
+        "full_form": "Intel Binary Compatibility Standard"
+    },
+    {
+        "id": "469",
+        "acro": "IBM",
+        "full_form": "International Business Machines"
+    },
+    {
+        "id": "470",
+        "acro": "IC",
+        "full_form": "Integrated Circuit"
+    },
+    {
+        "id": "471",
+        "acro": "ICANN",
+        "full_form": "Internet Corporation for Assigned Names and Numbers"
+    },
+    {
+        "id": "472",
+        "acro": "ICE",
+        "full_form": "In-Circuit Emulator"
+    },
+    {
+        "id": "473",
+        "acro": "ICMP",
+        "full_form": "Internet Control Message Protocol"
+    },
+    {
+        "id": "474",
+        "acro": "ICP",
+        "full_form": "Internet Cache Protocol"
+    },
+    {
+        "id": "475",
+        "acro": "ICT",
+        "full_form": "Information and Communication Technology"
+    },
+    {
+        "id": "476",
+        "acro": "IDE",
+        "full_form": "Integrated Development Environment"
+    },
+    {
+        "id": "477",
+        "acro": "IDE",
+        "full_form": "Integrated Drive Electronics"
+    },
+    {
+        "id": "478",
+        "acro": "IDL",
+        "full_form": "Interface Definition Language"
+    },
+    {
+        "id": "479",
+        "acro": "IDS",
+        "full_form": "Intrusion Detection System"
+    },
+    {
+        "id": "480",
+        "acro": "IE",
+        "full_form": "Internet Explorer"
+    },
+    {
+        "id": "481",
+        "acro": "IEC",
+        "full_form": "International Electrotechnical Commission"
+    },
+    {
+        "id": "482",
+        "acro": "IEEE",
+        "full_form": "Institute of Electrical and Electronics Engineers"
+    },
+    {
+        "id": "483",
+        "acro": "IETF",
+        "full_form": "Internet Engineering Task Force"
+    },
+    {
+        "id": "484",
+        "acro": "IFL",
+        "full_form": "Integrated Facility for Linux"
+    },
+    {
+        "id": "485",
+        "acro": "IGMP",
+        "full_form": "Internet Group Management Protocol"
+    },
+    {
+        "id": "486",
+        "acro": "IGRP",
+        "full_form": "Interior Gateway Routing Protocol"
+    },
+    {
+        "id": "487",
+        "acro": "IHV",
+        "full_form": "Independent Hardware Vendor"
+    },
+    {
+        "id": "488",
+        "acro": "IIOP",
+        "full_form": "Internet Inter-Orb Protocol"
+    },
+    {
+        "id": "489",
+        "acro": "IIS",
+        "full_form": "Internet Information Services"
+    },
+    {
+        "id": "490",
+        "acro": "IM",
+        "full_form": "Instant Messaging"
+    },
+    {
+        "id": "491",
+        "acro": "IMAP",
+        "full_form": "Internet Message Access Protocol"
+    },
+    {
+        "id": "492",
+        "acro": "IME",
+        "full_form": "Input Method Editor"
+    },
+    {
+        "id": "493",
+        "acro": "INFOSEC",
+        "full_form": "Information Systems Security"
+    },
+    {
+        "id": "494",
+        "acro": "IP",
+        "full_form": "Internet Protocol"
+    },
+    {
+        "id": "495",
+        "acro": "IPC",
+        "full_form": "Inter-Process Communication"
+    },
+    {
+        "id": "496",
+        "acro": "IPL",
+        "full_form": "Initial Program Load"
+    },
+    {
+        "id": "497",
+        "acro": "IPP",
+        "full_form": "Internet Printing Protocol"
+    },
+    {
+        "id": "498",
+        "acro": "IPS",
+        "full_form": "Intrusion Prevention System"
+    },
+    {
+        "id": "499",
+        "acro": "IPsec",
+        "full_form": "Internet Protocol security"
+    },
+    {
+        "id": "500",
+        "acro": "IPTV",
+        "full_form": "Internet Protocol Television"
+    },
+    {
+        "id": "501",
+        "acro": "IPX",
+        "full_form": "Internetwork Packet Exchange"
+    },
+    {
+        "id": "502",
+        "acro": "IRC",
+        "full_form": "Internet Relay Chat"
+    },
+    {
+        "id": "503",
+        "acro": "IrDA",
+        "full_form": "Infrared Data Association"
+    },
+    {
+        "id": "504",
+        "acro": "IRP",
+        "full_form": "I\/O Request Packet"
+    },
+    {
+        "id": "505",
+        "acro": "IRQ",
+        "full_form": "Interrupt Request"
+    },
+    {
+        "id": "506",
+        "acro": "IS",
+        "full_form": "Information Systems"
+    },
+    {
+        "id": "507",
+        "acro": "ISA",
+        "full_form": "Industry Standard Architecture"
+    },
+    {
+        "id": "508",
+        "acro": "ISAM",
+        "full_form": "Indexed Sequential Access Method"
+    },
+    {
+        "id": "509",
+        "acro": "ISC",
+        "full_form": "Internet Storm Center"
+    },
+    {
+        "id": "510",
+        "acro": "ISDN",
+        "full_form": "Integrated Services Digital Network"
+    },
+    {
+        "id": "511",
+        "acro": "ISO",
+        "full_form": "International Organization for Standardization"
+    },
+    {
+        "id": "512",
+        "acro": "ISP",
+        "full_form": "Internet Service Provider"
+    },
+    {
+        "id": "513",
+        "acro": "ISPF",
+        "full_form": "Interactive System Productivity Facility"
+    },
+    {
+        "id": "514",
+        "acro": "ISR",
+        "full_form": "Interrupt Service Routine"
+    },
+    {
+        "id": "515",
+        "acro": "ISV",
+        "full_form": "Independent Software Vendor"
+    },
+    {
+        "id": "516",
+        "acro": "IT",
+        "full_form": "Information Technology"
+    },
+    {
+        "id": "517",
+        "acro": "ITL",
+        "full_form": "Interval Temporal Logic"
+    },
+    {
+        "id": "518",
+        "acro": "ITU",
+        "full_form": "International Telecommunication Union"
+    },
+    {
+        "id": "519",
+        "acro": "J2CE",
+        "full_form": "Java 2 Cryptographic Edition"
+    },
+    {
+        "id": "520",
+        "acro": "J2EE",
+        "full_form": "Java 2 Enterprise Edition"
+    },
+    {
+        "id": "521",
+        "acro": "J2ME",
+        "full_form": "Java 2 Micro Edition"
+    },
+    {
+        "id": "522",
+        "acro": "J2SE",
+        "full_form": "Java 2 Standard Edition"
+    },
+    {
+        "id": "523",
+        "acro": "JAX-RPC",
+        "full_form": "Java XML for Remote Procedure Calls"
+    },
+    {
+        "id": "524",
+        "acro": "JAXB",
+        "full_form": "Java Architecture for XML Binding"
+    },
+    {
+        "id": "525",
+        "acro": "JAXP",
+        "full_form": "Java API for XML Processing"
+    },
+    {
+        "id": "526",
+        "acro": "JBOD",
+        "full_form": "Just a Bunch of Disks"
+    },
+    {
+        "id": "527",
+        "acro": "JCL",
+        "full_form": "Job Control Language"
+    },
+    {
+        "id": "528",
+        "acro": "JCP",
+        "full_form": "Java Community Process"
+    },
+    {
+        "id": "529",
+        "acro": "JDBC",
+        "full_form": "Java Database Connectivity"
+    },
+    {
+        "id": "530",
+        "acro": "JDK",
+        "full_form": "Java Development Kit"
+    },
+    {
+        "id": "531",
+        "acro": "JDS",
+        "full_form": "Java Desktop System"
+    },
+    {
+        "id": "532",
+        "acro": "JES",
+        "full_form": "Job Entry Subsystem"
+    },
+    {
+        "id": "533",
+        "acro": "JFC",
+        "full_form": "Java Foundation Classes"
+    },
+    {
+        "id": "534",
+        "acro": "JFET",
+        "full_form": "Junction Field-Effect Transistor"
+    },
+    {
+        "id": "535",
+        "acro": "JFS",
+        "full_form": "IBM Journaling File System"
+    },
+    {
+        "id": "536",
+        "acro": "JINI",
+        "full_form": "Jini Is Not Initials"
+    },
+    {
+        "id": "537",
+        "acro": "JIT",
+        "full_form": "Just-In-Time"
+    },
+    {
+        "id": "538",
+        "acro": "JMS",
+        "full_form": "Java Message Service"
+    },
+    {
+        "id": "539",
+        "acro": "JMX",
+        "full_form": "Java Management Extensions"
+    },
+    {
+        "id": "540",
+        "acro": "JNDI",
+        "full_form": "Java Naming and Directory Interface"
+    },
+    {
+        "id": "541",
+        "acro": "JNI",
+        "full_form": "Java Native Interface"
+    },
+    {
+        "id": "542",
+        "acro": "JPEG",
+        "full_form": "Joint Photographic Experts Group"
+    },
+    {
+        "id": "543",
+        "acro": "JRE",
+        "full_form": "Java Runtime Environment"
+    },
+    {
+        "id": "544",
+        "acro": "JS",
+        "full_form": "JavaScript"
+    },
+    {
+        "id": "545",
+        "acro": "JSON",
+        "full_form": "JavaScript Object Notation"
+    },
+    {
+        "id": "546",
+        "acro": "JSP",
+        "full_form": "Java Server Pages"
+    },
+    {
+        "id": "547",
+        "acro": "JTAG",
+        "full_form": "Joint Test Action Group"
+    },
+    {
+        "id": "548",
+        "acro": "JUG",
+        "full_form": "Java Users Group"
+    },
+    {
+        "id": "549",
+        "acro": "JVM",
+        "full_form": "Java Virtual Machine"
+    },
+    {
+        "id": "550",
+        "acro": "jwz",
+        "full_form": "Jamie Zawinski"
+    },
+    {
+        "id": "551",
+        "acro": "K&R",
+        "full_form": "Kernighan and Ritchie"
+    },
+    {
+        "id": "552",
+        "acro": "KB",
+        "full_form": "Kilobyte"
+    },
+    {
+        "id": "553",
+        "acro": "Kb",
+        "full_form": "Kilobit"
+    },
+    {
+        "id": "554",
+        "acro": "KB",
+        "full_form": "Knowledge Base"
+    },
+    {
+        "id": "1102",
+        "acro": "Kbps",
+        "full_form": " Kilobits Per Second"
+    },
+    {
+        "id": "1103",
+        "acro": "KBps",
+        "full_form": "Kilobytes Per Second"
+    },
+    {
+        "id": "555",
+        "acro": "KDE",
+        "full_form": "K Desktop Environment"
+    },
+    {
+        "id": "556",
+        "acro": "kHz",
+        "full_form": "Kilohertz"
+    },
+    {
+        "id": "557",
+        "acro": "KISS",
+        "full_form": "Keep It Simple, Stupid"
+    },
+    {
+        "id": "558",
+        "acro": "KVM",
+        "full_form": "Keyboard, Video, Mouse"
+    },
+    {
+        "id": "559",
+        "acro": "L10N",
+        "full_form": "Localization"
+    },
+    {
+        "id": "560",
+        "acro": "LAMP",
+        "full_form": "Linux Apache MySQL (Perl, PHP, or Python)"
+    },
+    {
+        "id": "561",
+        "acro": "LAN",
+        "full_form": "Local Area Network"
+    },
+    {
+        "id": "562",
+        "acro": "LBA",
+        "full_form": "Logical Block Addressing"
+    },
+    {
+        "id": "563",
+        "acro": "LCD",
+        "full_form": "Liquid Crystal Display"
+    },
+    {
+        "id": "564",
+        "acro": "LCOS",
+        "full_form": "Liquid Crystal On Silicon"
+    },
+    {
+        "id": "565",
+        "acro": "LDAP",
+        "full_form": "Lightweight Directory Access Protocol"
+    },
+    {
+        "id": "566",
+        "acro": "LE",
+        "full_form": "Logical Extents"
+    },
+    {
+        "id": "567",
+        "acro": "LED",
+        "full_form": "Light-Emitting Diode"
+    },
+    {
+        "id": "568",
+        "acro": "LF",
+        "full_form": "Line Feed"
+    },
+    {
+        "id": "569",
+        "acro": "LF",
+        "full_form": "Low Frequency"
+    },
+    {
+        "id": "570",
+        "acro": "LFS",
+        "full_form": "Linux From Scratch"
+    },
+    {
+        "id": "571",
+        "acro": "LGPL",
+        "full_form": "[GNU] Lesser General Public License"
+    },
+    {
+        "id": "572",
+        "acro": "lib",
+        "full_form": "library"
+    },
+    {
+        "id": "573",
+        "acro": "LIF",
+        "full_form": "Low Insertion Force"
+    },
+    {
+        "id": "574",
+        "acro": "LIFO",
+        "full_form": "Last In First Out"
+    },
+    {
+        "id": "575",
+        "acro": "LILO",
+        "full_form": "Linux Loader"
+    },
+    {
+        "id": "576",
+        "acro": "LKML",
+        "full_form": "Linux Kernel Mailing List"
+    },
+    {
+        "id": "577",
+        "acro": "LM",
+        "full_form": "Lan Manager"
+    },
+    {
+        "id": "578",
+        "acro": "LOC",
+        "full_form": "Lines of Code"
+    },
+    {
+        "id": "579",
+        "acro": "LPI",
+        "full_form": "Linux Professional Institute"
+    },
+    {
+        "id": "580",
+        "acro": "LSB",
+        "full_form": "Least Significant Bit"
+    },
+    {
+        "id": "581",
+        "acro": "LSB",
+        "full_form": "Linux Standard Base"
+    },
+    {
+        "id": "582",
+        "acro": "LSI",
+        "full_form": "Large-Scale Integration"
+    },
+    {
+        "id": "583",
+        "acro": "LTL",
+        "full_form": "Linear Temporal Logic"
+    },
+    {
+        "id": "584",
+        "acro": "LTR",
+        "full_form": "Left-to-Right"
+    },
+    {
+        "id": "585",
+        "acro": "LUG",
+        "full_form": "Linux User Group"
+    },
+    {
+        "id": "586",
+        "acro": "LUN",
+        "full_form": "Logical Unit Number"
+    },
+    {
+        "id": "587",
+        "acro": "LV",
+        "full_form": "Logical Volume"
+    },
+    {
+        "id": "588",
+        "acro": "LVD",
+        "full_form": "Low Voltage Differential"
+    },
+    {
+        "id": "589",
+        "acro": "LVM",
+        "full_form": "Logical Volume Management"
+    },
+    {
+        "id": "590",
+        "acro": "LZW",
+        "full_form": "Lempel-Ziv-Welch"
+    },
+    {
+        "id": "591",
+        "acro": "MAC",
+        "full_form": "Media Access Control"
+    },
+    {
+        "id": "592",
+        "acro": "MAC",
+        "full_form": "Mandatory Access Control"
+    },
+    {
+        "id": "593",
+        "acro": "MAN",
+        "full_form": "Metropolitan Area Network"
+    },
+    {
+        "id": "594",
+        "acro": "MANET",
+        "full_form": "Mobile Ad-Hoc Network"
+    },
+    {
+        "id": "595",
+        "acro": "MAPI",
+        "full_form": "Messaging Application Programming Interface"
+    },
+    {
+        "id": "596",
+        "acro": "MB",
+        "full_form": "Megabyte"
+    },
+    {
+        "id": "597",
+        "acro": "Mb",
+        "full_form": "Megabit"
+    },
+    {
+        "id": "598",
+        "acro": "MBCS",
+        "full_form": "Multi Byte Character Set"
+    },
+    {
+        "id": "1099",
+        "acro": "Mbps",
+        "full_form": "Megabits Per Second"
+    },
+    {
+        "id": "1101",
+        "acro": "MBps",
+        "full_form": "Megabytes Per Second"
+    },
+    {
+        "id": "599",
+        "acro": "MBR",
+        "full_form": "Master Boot Record"
+    },
+    {
+        "id": "600",
+        "acro": "MCA",
+        "full_form": "Micro Channel Architecture"
+    },
+    {
+        "id": "601",
+        "acro": "MCSA",
+        "full_form": "Microsoft Certified System Administrator"
+    },
+    {
+        "id": "602",
+        "acro": "MCSD",
+        "full_form": "Microsoft Certified System Developer"
+    },
+    {
+        "id": "603",
+        "acro": "MCSE",
+        "full_form": "Microsoft Certified System Engineer"
+    },
+    {
+        "id": "604",
+        "acro": "MDA",
+        "full_form": "Model Driven Architecture"
+    },
+    {
+        "id": "605",
+        "acro": "MDA",
+        "full_form": "Monochrome Display Adapter"
+    },
+    {
+        "id": "606",
+        "acro": "MDI",
+        "full_form": "Multiple Document Interface"
+    },
+    {
+        "id": "607",
+        "acro": "ME",
+        "full_form": "[Windows] Millennium Edition"
+    },
+    {
+        "id": "608",
+        "acro": "MF",
+        "full_form": "Medium Frequency"
+    },
+    {
+        "id": "609",
+        "acro": "MFC",
+        "full_form": "Microsoft Foundation Classes"
+    },
+    {
+        "id": "610",
+        "acro": "MFM",
+        "full_form": "Modified Frequency Modulation"
+    },
+    {
+        "id": "611",
+        "acro": "MGPT",
+        "full_form": "Machine Generated Problem Tracking"
+    },
+    {
+        "id": "612",
+        "acro": "MHz",
+        "full_form": "Megahertz"
+    },
+    {
+        "id": "613",
+        "acro": "MIB",
+        "full_form": "Management Information Base"
+    },
+    {
+        "id": "614",
+        "acro": "MICR",
+        "full_form": "Magnetic Ink Character Reader"
+    },
+    {
+        "id": "615",
+        "acro": "MIDI",
+        "full_form": "Musical Instrument Digital Interface"
+    },
+    {
+        "id": "616",
+        "acro": "MIMD",
+        "full_form": "Multiple Instruction, Multiple Data"
+    },
+    {
+        "id": "617",
+        "acro": "MIME",
+        "full_form": "Multipurpose Internet Mail Extensions"
+    },
+    {
+        "id": "618",
+        "acro": "MIMO",
+        "full_form": "Multiple-Input Multiple-Output"
+    },
+    {
+        "id": "619",
+        "acro": "MIPS",
+        "full_form": "Microprocessor Without Interlocked Pipeline Stages"
+    },
+    {
+        "id": "620",
+        "acro": "MIPS",
+        "full_form": "Million Instructions Per Second"
+    },
+    {
+        "id": "621",
+        "acro": "MIS",
+        "full_form": "Management Information Systems"
+    },
+    {
+        "id": "622",
+        "acro": "MISD",
+        "full_form": "Multiple Instruction, Single Data"
+    },
+    {
+        "id": "623",
+        "acro": "MIT",
+        "full_form": "Massachusetts Institute of Technology"
+    },
+    {
+        "id": "624",
+        "acro": "MMDS",
+        "full_form": "Mortality Medical Data System"
+    },
+    {
+        "id": "625",
+        "acro": "MMI",
+        "full_form": "Man Machine Interface"
+    },
+    {
+        "id": "626",
+        "acro": "MMIO",
+        "full_form": "Memory-Mapped I\/O"
+    },
+    {
+        "id": "627",
+        "acro": "MMORPG",
+        "full_form": "Massively Multiplayer Online Role-Playing Game"
+    },
+    {
+        "id": "628",
+        "acro": "MMU",
+        "full_form": "Memory Management Unit"
+    },
+    {
+        "id": "629",
+        "acro": "MMX",
+        "full_form": "Multi-Media Extensions"
+    },
+    {
+        "id": "630",
+        "acro": "MNG",
+        "full_form": "Multiple-image Network Graphics"
+    },
+    {
+        "id": "631",
+        "acro": "MoBo",
+        "full_form": "Motherboard"
+    },
+    {
+        "id": "632",
+        "acro": "MOO",
+        "full_form": "MUD Object Oriented"
+    },
+    {
+        "id": "633",
+        "acro": "MOSFET",
+        "full_form": "Metal-Oxide Semiconductor FET"
+    },
+    {
+        "id": "634",
+        "acro": "MOTD",
+        "full_form": "Message Of The Day"
+    },
+    {
+        "id": "635",
+        "acro": "MPAA",
+        "full_form": "Motion Picture Association of America"
+    },
+    {
+        "id": "636",
+        "acro": "MPEG",
+        "full_form": "Motion Pictures (Coding) Experts Group"
+    },
+    {
+        "id": "637",
+        "acro": "MPL",
+        "full_form": "Mozilla Public License"
+    },
+    {
+        "id": "638",
+        "acro": "MPU",
+        "full_form": "Microprocessor Unit"
+    },
+    {
+        "id": "639",
+        "acro": "MS",
+        "full_form": "Memory Stick"
+    },
+    {
+        "id": "640",
+        "acro": "MS",
+        "full_form": "Microsoft"
+    },
+    {
+        "id": "641",
+        "acro": "MS-DOS",
+        "full_form": "Microsoft DOS"
+    },
+    {
+        "id": "642",
+        "acro": "MSA",
+        "full_form": "Mail Submission Agent"
+    },
+    {
+        "id": "643",
+        "acro": "MSB",
+        "full_form": "Most Significant Bit"
+    },
+    {
+        "id": "644",
+        "acro": "MSDN",
+        "full_form": "Microsoft Developer Network"
+    },
+    {
+        "id": "645",
+        "acro": "MSI",
+        "full_form": "Medium Scale Integration"
+    },
+    {
+        "id": "646",
+        "acro": "MSI",
+        "full_form": "Microsoft Installer"
+    },
+    {
+        "id": "647",
+        "acro": "MT",
+        "full_form": "Machine Translation"
+    },
+    {
+        "id": "648",
+        "acro": "MTA",
+        "full_form": "Mail Transfer Agent"
+    },
+    {
+        "id": "649",
+        "acro": "MTU",
+        "full_form": "Maximum Transmission Unit"
+    },
+    {
+        "id": "650",
+        "acro": "MUA",
+        "full_form": "Mail User Agent"
+    },
+    {
+        "id": "651",
+        "acro": "MUD",
+        "full_form": "Multi-User Dungeon"
+    },
+    {
+        "id": "652",
+        "acro": "MVC",
+        "full_form": "Model-View-Controller"
+    },
+    {
+        "id": "653",
+        "acro": "MVP",
+        "full_form": "Most Valuable Professional"
+    },
+    {
+        "id": "654",
+        "acro": "MVS",
+        "full_form": "Multiple Virtual Storage"
+    },
+    {
+        "id": "655",
+        "acro": "MX",
+        "full_form": "Mail exchange"
+    },
+    {
+        "id": "656",
+        "acro": "NACK",
+        "full_form": "Negative ACKnowledgement"
+    },
+    {
+        "id": "657",
+        "acro": "NAK",
+        "full_form": "Negative AcKnowledge Character"
+    },
+    {
+        "id": "658",
+        "acro": "NAS",
+        "full_form": "Network-Attached Storage"
+    },
+    {
+        "id": "659",
+        "acro": "NAT",
+        "full_form": "Network Address Translation"
+    },
+    {
+        "id": "660",
+        "acro": "NCP",
+        "full_form": "NetWare Core Protocol"
+    },
+    {
+        "id": "661",
+        "acro": "NCQ",
+        "full_form": "Native Command Queuing"
+    },
+    {
+        "id": "662",
+        "acro": "NCSA",
+        "full_form": "National Center for Supercomputing Applications"
+    },
+    {
+        "id": "663",
+        "acro": "NDPS",
+        "full_form": "Novell Distributed Print Services"
+    },
+    {
+        "id": "664",
+        "acro": "NDS",
+        "full_form": "Novell Directory Services"
+    },
+    {
+        "id": "665",
+        "acro": "NEP",
+        "full_form": "Network Equipment Provider"
+    },
+    {
+        "id": "666",
+        "acro": "NEXT",
+        "full_form": "Near-End CrossTalk"
+    },
+    {
+        "id": "667",
+        "acro": "NFA",
+        "full_form": "Nondeterministic Finite Automaton"
+    },
+    {
+        "id": "668",
+        "acro": "NFS",
+        "full_form": "Network File System"
+    },
+    {
+        "id": "669",
+        "acro": "NI",
+        "full_form": "National Instruments"
+    },
+    {
+        "id": "670",
+        "acro": "NIC",
+        "full_form": "Network Interface Card"
+    },
+    {
+        "id": "671",
+        "acro": "NIM",
+        "full_form": "No Internal Message"
+    },
+    {
+        "id": "672",
+        "acro": "NIO",
+        "full_form": "New I\/O"
+    },
+    {
+        "id": "673",
+        "acro": "NIST",
+        "full_form": "National Institute of Standards and Technology"
+    },
+    {
+        "id": "674",
+        "acro": "NLP",
+        "full_form": "Natural Language Processing"
+    },
+    {
+        "id": "675",
+        "acro": "NLS",
+        "full_form": "National Language Support"
+    },
+    {
+        "id": "676",
+        "acro": "NMI",
+        "full_form": "Non-Maskable Interrupt"
+    },
+    {
+        "id": "677",
+        "acro": "NNTP",
+        "full_form": "Network News Transfer Protocol"
+    },
+    {
+        "id": "678",
+        "acro": "NOC",
+        "full_form": "Network Operations Center"
+    },
+    {
+        "id": "679",
+        "acro": "NOP",
+        "full_form": "No OPeration"
+    },
+    {
+        "id": "680",
+        "acro": "NOS",
+        "full_form": "Network Operating System"
+    },
+    {
+        "id": "681",
+        "acro": "NP",
+        "full_form": "Non-Deterministic Polynomial-Time"
+    },
+    {
+        "id": "682",
+        "acro": "NPL",
+        "full_form": "Netscape Public License"
+    },
+    {
+        "id": "683",
+        "acro": "NPTL",
+        "full_form": "Native POSIX Thread Library"
+    },
+    {
+        "id": "684",
+        "acro": "NPU",
+        "full_form": "Network Processing Unit"
+    },
+    {
+        "id": "685",
+        "acro": "NS",
+        "full_form": "Netscape"
+    },
+    {
+        "id": "686",
+        "acro": "NSA",
+        "full_form": "National Security Agency"
+    },
+    {
+        "id": "687",
+        "acro": "NSPR",
+        "full_form": "Netscape Portable Runtime"
+    },
+    {
+        "id": "688",
+        "acro": "NSS",
+        "full_form": "Name Service Switch"
+    },
+    {
+        "id": "689",
+        "acro": "NSS",
+        "full_form": "Network Security Services"
+    },
+    {
+        "id": "690",
+        "acro": "NSS",
+        "full_form": "Novell Storage Service"
+    },
+    {
+        "id": "691",
+        "acro": "NT (Windows)",
+        "full_form": "New Technology"
+    },
+    {
+        "id": "692",
+        "acro": "NTFS",
+        "full_form": "NT Filesystem"
+    },
+    {
+        "id": "693",
+        "acro": "NTLM",
+        "full_form": "NT Lan Manager"
+    },
+    {
+        "id": "694",
+        "acro": "NTP",
+        "full_form": "Network Time Protocol"
+    },
+    {
+        "id": "695",
+        "acro": "NUMA",
+        "full_form": "Non-Uniform Memory Access"
+    },
+    {
+        "id": "696",
+        "acro": "NURBS",
+        "full_form": "Nonuniform Rational B-Spline"
+    },
+    {
+        "id": "697",
+        "acro": "NVRAM",
+        "full_form": "Non-Volatile Random Access Memory"
+    },
+    {
+        "id": "698",
+        "acro": "OASIS",
+        "full_form": "Organization for the Advancement of Structured Information Standards"
+    },
+    {
+        "id": "699",
+        "acro": "OAT",
+        "full_form": "Operational Acceptance Testing"
+    },
+    {
+        "id": "700",
+        "acro": "ODBC",
+        "full_form": "Open Database Connectivity"
+    },
+    {
+        "id": "701",
+        "acro": "OEM",
+        "full_form": "Original Equipment Manufacturer"
+    },
+    {
+        "id": "702",
+        "acro": "OES",
+        "full_form": "Open Enterprise Server"
+    },
+    {
+        "id": "703",
+        "acro": "OFTC",
+        "full_form": "Open and Free Technology Community"
+    },
+    {
+        "id": "704",
+        "acro": "OLAP",
+        "full_form": "Online Analytical Processing"
+    },
+    {
+        "id": "705",
+        "acro": "OLE",
+        "full_form": "Object Linking and Embedding"
+    },
+    {
+        "id": "706",
+        "acro": "OLED",
+        "full_form": "Organic Light Emitting Diode"
+    },
+    {
+        "id": "707",
+        "acro": "OLPC",
+        "full_form": "One Laptop per Child"
+    },
+    {
+        "id": "708",
+        "acro": "OLTP",
+        "full_form": "Online Transaction Processing"
+    },
+    {
+        "id": "709",
+        "acro": "OMG",
+        "full_form": "Object Management Group"
+    },
+    {
+        "id": "710",
+        "acro": "OO",
+        "full_form": "Object-Oriented"
+    },
+    {
+        "id": "711",
+        "acro": "OOo",
+        "full_form": "OpenOffice.org"
+    },
+    {
+        "id": "712",
+        "acro": "OOP",
+        "full_form": "Object-Oriented Programming"
+    },
+    {
+        "id": "713",
+        "acro": "OPML",
+        "full_form": "Outline Processor Markup Language"
+    },
+    {
+        "id": "714",
+        "acro": "ORB",
+        "full_form": "Object Request Broker"
+    },
+    {
+        "id": "715",
+        "acro": "ORM",
+        "full_form": "Oject-Relational Mapping"
+    },
+    {
+        "id": "716",
+        "acro": "OS",
+        "full_form": "Operating System"
+    },
+    {
+        "id": "717",
+        "acro": "OS",
+        "full_form": "Open Source"
+    },
+    {
+        "id": "718",
+        "acro": "OSCON",
+        "full_form": "OReilly Open Source Convention"
+    },
+    {
+        "id": "719",
+        "acro": "OSDN",
+        "full_form": "Open Source Developer Network"
+    },
+    {
+        "id": "720",
+        "acro": "OSI",
+        "full_form": "Open Source Initiative"
+    },
+    {
+        "id": "721",
+        "acro": "OSI",
+        "full_form": "Open Systems Interconnection"
+    },
+    {
+        "id": "722",
+        "acro": "OSPF",
+        "full_form": "Open Shortest Path First"
+    },
+    {
+        "id": "723",
+        "acro": "OSS",
+        "full_form": "Open Source Software"
+    },
+    {
+        "id": "724",
+        "acro": "OSS",
+        "full_form": "Open Sound System"
+    },
+    {
+        "id": "725",
+        "acro": "OSS",
+        "full_form": "Operational Support Systems"
+    },
+    {
+        "id": "726",
+        "acro": "OSTG",
+        "full_form": "Open Source Technology Group (formerly OSDN)"
+    },
+    {
+        "id": "727",
+        "acro": "OUI",
+        "full_form": "Organizationally Unique Identifier"
+    },
+    {
+        "id": "728",
+        "acro": "P2P",
+        "full_form": "Peer-To-Peer"
+    },
+    {
+        "id": "729",
+        "acro": "PAN",
+        "full_form": "Personal Area Network"
+    },
+    {
+        "id": "730",
+        "acro": "PAP",
+        "full_form": "Password Authentication Protocol"
+    },
+    {
+        "id": "731",
+        "acro": "PARC",
+        "full_form": "Palo Alto Research Center"
+    },
+    {
+        "id": "732",
+        "acro": "PATA",
+        "full_form": "Parallel ATA"
+    },
+    {
+        "id": "733",
+        "acro": "PC",
+        "full_form": "Personal Computer"
+    },
+    {
+        "id": "734",
+        "acro": "PCB",
+        "full_form": "Printed Circuit Board"
+    },
+    {
+        "id": "735",
+        "acro": "PCB",
+        "full_form": "Process Control Block"
+    },
+    {
+        "id": "736",
+        "acro": "PCI",
+        "full_form": "Peripheral Component Interconnect"
+    },
+    {
+        "id": "737",
+        "acro": "PCIe",
+        "full_form": "PCI Express"
+    },
+    {
+        "id": "738",
+        "acro": "PCL",
+        "full_form": "Printer Command Language"
+    },
+    {
+        "id": "739",
+        "acro": "PCM",
+        "full_form": "Pulse-Code Modulation"
+    },
+    {
+        "id": "740",
+        "acro": "PCMCIA",
+        "full_form": "Personal Computer Memory Card International Association"
+    },
+    {
+        "id": "741",
+        "acro": "PCRE",
+        "full_form": "Perl Compatible Regular Expressions"
+    },
+    {
+        "id": "742",
+        "acro": "PD",
+        "full_form": "Public Domain"
+    },
+    {
+        "id": "743",
+        "acro": "PDA",
+        "full_form": "Personal Digital Assistant"
+    },
+    {
+        "id": "744",
+        "acro": "PDF",
+        "full_form": "Portable Document Format"
+    },
+    {
+        "id": "745",
+        "acro": "PDP",
+        "full_form": "Programmed Data Processor"
+    },
+    {
+        "id": "746",
+        "acro": "PE",
+        "full_form": "Physical Extents"
+    },
+    {
+        "id": "747",
+        "acro": "PEBKAC",
+        "full_form": "Problem Exists Between Keyboard And Chair"
+    },
+    {
+        "id": "748",
+        "acro": "PERL",
+        "full_form": "Practical Extraction and Reporting Language"
+    },
+    {
+        "id": "749",
+        "acro": "PGA",
+        "full_form": "Pin Grid Array"
+    },
+    {
+        "id": "750",
+        "acro": "PGP",
+        "full_form": "Pretty Good Privacy"
+    },
+    {
+        "id": "751",
+        "acro": "PHP",
+        "full_form": "Hypertext Preprocessor (Personal Home Page)"
+    },
+    {
+        "id": "752",
+        "acro": "PIC",
+        "full_form": "Peripheral Interface Controller"
+    },
+    {
+        "id": "753",
+        "acro": "PIC",
+        "full_form": "Programmable Interrupt Controller"
+    },
+    {
+        "id": "754",
+        "acro": "PID",
+        "full_form": "Proportional Integral Derivative"
+    },
+    {
+        "id": "755",
+        "acro": "PID",
+        "full_form": "Process ID"
+    },
+    {
+        "id": "756",
+        "acro": "PIM",
+        "full_form": "Personal Information Manager"
+    },
+    {
+        "id": "757",
+        "acro": "PINE",
+        "full_form": "Program for Internet News & Email"
+    },
+    {
+        "id": "758",
+        "acro": "PIO",
+        "full_form": "Programmed Input\/Output"
+    },
+    {
+        "id": "759",
+        "acro": "PKCS",
+        "full_form": "Public Key Cryptography Standards"
+    },
+    {
+        "id": "760",
+        "acro": "PKI",
+        "full_form": "Public Key Infrastructure"
+    },
+    {
+        "id": "761",
+        "acro": "PL\/I",
+        "full_form": "Programming Language One"
+    },
+    {
+        "id": "762",
+        "acro": "PL\/M",
+        "full_form": "Programming Language for Microcomputers"
+    },
+    {
+        "id": "763",
+        "acro": "PL\/P",
+        "full_form": "Programming Language for Prime"
+    },
+    {
+        "id": "764",
+        "acro": "PLC",
+        "full_form": "Programmable Logic Controller"
+    },
+    {
+        "id": "765",
+        "acro": "PLC",
+        "full_form": "Power Line Communication"
+    },
+    {
+        "id": "766",
+        "acro": "PLD",
+        "full_form": "Programmable Logic Device"
+    },
+    {
+        "id": "767",
+        "acro": "PLT",
+        "full_form": "Power Line Telecoms"
+    },
+    {
+        "id": "768",
+        "acro": "PMM",
+        "full_form": "POST Memory Manager"
+    },
+    {
+        "id": "769",
+        "acro": "PNG",
+        "full_form": "Portable Network Graphics"
+    },
+    {
+        "id": "770",
+        "acro": "PnP",
+        "full_form": "Plug-and-Play"
+    },
+    {
+        "id": "771",
+        "acro": "PoE",
+        "full_form": "Power over Ethernet"
+    },
+    {
+        "id": "772",
+        "acro": "POP",
+        "full_form": "Point of Presence"
+    },
+    {
+        "id": "773",
+        "acro": "POP3",
+        "full_form": "Post Office Protocol v3"
+    },
+    {
+        "id": "774",
+        "acro": "POSIX",
+        "full_form": "Portable Operating System Interface"
+    },
+    {
+        "id": "775",
+        "acro": "POST",
+        "full_form": "Power-On Self Test"
+    },
+    {
+        "id": "776",
+        "acro": "PPC",
+        "full_form": "PowerPC"
+    },
+    {
+        "id": "777",
+        "acro": "PPI",
+        "full_form": "Pixels Per Inch"
+    },
+    {
+        "id": "778",
+        "acro": "PPP",
+        "full_form": "Point-to-Point Protocol"
+    },
+    {
+        "id": "779",
+        "acro": "PPPoA",
+        "full_form": "PPP over ATM"
+    },
+    {
+        "id": "780",
+        "acro": "PPPoE",
+        "full_form": "PPP over Ethernet"
+    },
+    {
+        "id": "781",
+        "acro": "PPTP",
+        "full_form": "Point-to-Point Tunneling Protocol"
+    },
+    {
+        "id": "782",
+        "acro": "PS",
+        "full_form": "PostScript"
+    },
+    {
+        "id": "783",
+        "acro": "PS\/2",
+        "full_form": "Personal System\/2"
+    },
+    {
+        "id": "784",
+        "acro": "PSU",
+        "full_form": "Power Supply Unit"
+    },
+    {
+        "id": "785",
+        "acro": "PSVI",
+        "full_form": "Post-Schema-Validation Infoset"
+    },
+    {
+        "id": "786",
+        "acro": "PV",
+        "full_form": "Physical Volume"
+    },
+    {
+        "id": "787",
+        "acro": "PVG",
+        "full_form": "Physical Volume Group"
+    },
+    {
+        "id": "788",
+        "acro": "PVR",
+        "full_form": "Personal Video Recorder"
+    },
+    {
+        "id": "789",
+        "acro": "PXE",
+        "full_form": "Preboot Execution Environment"
+    },
+    {
+        "id": "790",
+        "acro": "PXI",
+        "full_form": "PCI Extensions for Instrumentation"
+    },
+    {
+        "id": "791",
+        "acro": "QA",
+        "full_form": "Quality Assurance"
+    },
+    {
+        "id": "792",
+        "acro": "QDR",
+        "full_form": "Quad Data Rate"
+    },
+    {
+        "id": "793",
+        "acro": "QFP",
+        "full_form": "Quoted For Permanence"
+    },
+    {
+        "id": "794",
+        "acro": "QoS",
+        "full_form": "Quality of Service"
+    },
+    {
+        "id": "795",
+        "acro": "QOTD",
+        "full_form": "Quote of the Day"
+    },
+    {
+        "id": "796",
+        "acro": "Qt",
+        "full_form": "Quasar Toolkit"
+    },
+    {
+        "id": "797",
+        "acro": "QTAM",
+        "full_form": "Queued Telecomunications Acess Method (an IBM OS\/360 API)"
+    },
+    {
+        "id": "798",
+        "acro": "RACF",
+        "full_form": "Resource Access Control Facility"
+    },
+    {
+        "id": "799",
+        "acro": "RAD",
+        "full_form": "Rapid Application Development"
+    },
+    {
+        "id": "800",
+        "acro": "RADIUS",
+        "full_form": "Remote Authentication Dial In User Service"
+    },
+    {
+        "id": "801",
+        "acro": "RAID",
+        "full_form": "Redundant Array of Independent Disks"
+    },
+    {
+        "id": "802",
+        "acro": "RAIT",
+        "full_form": "Redundant Array of Inexpensive Tapes"
+    },
+    {
+        "id": "803",
+        "acro": "RAM",
+        "full_form": "Random Access Memory"
+    },
+    {
+        "id": "804",
+        "acro": "RAR",
+        "full_form": "Type of archive file run on WinRAR"
+    },
+    {
+        "id": "805",
+        "acro": "RARP",
+        "full_form": "Reverse Address Resolution Protocol"
+    },
+    {
+        "id": "806",
+        "acro": "RC",
+        "full_form": "Runtime Configuration"
+    },
+    {
+        "id": "807",
+        "acro": "RCS",
+        "full_form": "Revision Control System"
+    },
+    {
+        "id": "808",
+        "acro": "RDBMS",
+        "full_form": "Relational Database Management System"
+    },
+    {
+        "id": "809",
+        "acro": "RDF",
+        "full_form": "Resource Description Framework"
+    },
+    {
+        "id": "810",
+        "acro": "RDM",
+        "full_form": "Relations Database Management"
+    },
+    {
+        "id": "811",
+        "acro": "RDS",
+        "full_form": "Relations Database System"
+    },
+    {
+        "id": "812",
+        "acro": "REFAL",
+        "full_form": "REcursive Functions Algorithmic Language"
+    },
+    {
+        "id": "813",
+        "acro": "regex",
+        "full_form": "Regular Expression"
+    },
+    {
+        "id": "814",
+        "acro": "regexp",
+        "full_form": "Regular Expression"
+    },
+    {
+        "id": "815",
+        "acro": "REST",
+        "full_form": "Representational State Transfer"
+    },
+    {
+        "id": "816",
+        "acro": "RF",
+        "full_form": "Radio Frequency"
+    },
+    {
+        "id": "817",
+        "acro": "RFC",
+        "full_form": "Request For Comments"
+    },
+    {
+        "id": "818",
+        "acro": "RFI",
+        "full_form": "Radio Frequency Interference"
+    },
+    {
+        "id": "819",
+        "acro": "RFID",
+        "full_form": "Radio Frequency Identification"
+    },
+    {
+        "id": "820",
+        "acro": "RGB",
+        "full_form": "Red, Green, Blue"
+    },
+    {
+        "id": "821",
+        "acro": "RGBA",
+        "full_form": "Red, Green, Blue, Alpha"
+    },
+    {
+        "id": "822",
+        "acro": "RHEL",
+        "full_form": "Red Hat Enterprise Linux"
+    },
+    {
+        "id": "823",
+        "acro": "RHL",
+        "full_form": "Red Hat Linux"
+    },
+    {
+        "id": "824",
+        "acro": "RIA",
+        "full_form": "Rich Internet Application"
+    },
+    {
+        "id": "825",
+        "acro": "RIAA",
+        "full_form": "Recording Industry Association of America"
+    },
+    {
+        "id": "826",
+        "acro": "RIP",
+        "full_form": "Routing Information Protocol"
+    },
+    {
+        "id": "827",
+        "acro": "RIP",
+        "full_form": "Raster Image Processor"
+    },
+    {
+        "id": "828",
+        "acro": "RISC",
+        "full_form": "Reduced Instruction Set Computer"
+    },
+    {
+        "id": "829",
+        "acro": "RLE",
+        "full_form": "Run-Length Encoding"
+    },
+    {
+        "id": "830",
+        "acro": "RLL",
+        "full_form": "Run Length Limited"
+    },
+    {
+        "id": "831",
+        "acro": "RMI",
+        "full_form": "Remote Method Invocation"
+    },
+    {
+        "id": "832",
+        "acro": "RMS",
+        "full_form": "Richard Matthew Stallman"
+    },
+    {
+        "id": "833",
+        "acro": "ROM",
+        "full_form": "Read Only Memory"
+    },
+    {
+        "id": "834",
+        "acro": "ROMB",
+        "full_form": "Read-Out Motherboard"
+    },
+    {
+        "id": "835",
+        "acro": "RPC",
+        "full_form": "Remote Procedure Call"
+    },
+    {
+        "id": "836",
+        "acro": "RPG",
+        "full_form": "Report Program Generator"
+    },
+    {
+        "id": "837",
+        "acro": "RPM",
+        "full_form": "RPM Package Manager"
+    },
+    {
+        "id": "838",
+        "acro": "RSA",
+        "full_form": "Rivest Shamir Adleman"
+    },
+    {
+        "id": "839",
+        "acro": "RSI",
+        "full_form": "Repetitive Strain Injury"
+    },
+    {
+        "id": "840",
+        "acro": "RSS",
+        "full_form": "Rich Site Summary, RDF Site Summary, or Really Simple Syndication"
+    },
+    {
+        "id": "841",
+        "acro": "RTC",
+        "full_form": "Real-Time Clock"
+    },
+    {
+        "id": "842",
+        "acro": "RTE",
+        "full_form": "Real-Time Enterprise"
+    },
+    {
+        "id": "843",
+        "acro": "RTL",
+        "full_form": "Right-to-Left"
+    },
+    {
+        "id": "844",
+        "acro": "RTOS",
+        "full_form": "Real Time Operating System"
+    },
+    {
+        "id": "845",
+        "acro": "RTS",
+        "full_form": "Ready To Send"
+    },
+    {
+        "id": "846",
+        "acro": "S\/MIME",
+        "full_form": "Secure\/Multipurpose Internet Mail Extensions"
+    },
+    {
+        "id": "847",
+        "acro": "SaaS",
+        "full_form": "Software as a Service"
+    },
+    {
+        "id": "848",
+        "acro": "SAN",
+        "full_form": "Storage Area Network"
+    },
+    {
+        "id": "849",
+        "acro": "SAR",
+        "full_form": "Search And Replace"
+    },
+    {
+        "id": "850",
+        "acro": "SAS",
+        "full_form": "Statistical Analysis System"
+    },
+    {
+        "id": "851",
+        "acro": "SATA",
+        "full_form": "Serial ATA"
+    },
+    {
+        "id": "852",
+        "acro": "SAX",
+        "full_form": "Simple API for XML"
+    },
+    {
+        "id": "853",
+        "acro": "sbin",
+        "full_form": "superuser binary"
+    },
+    {
+        "id": "854",
+        "acro": "SBOD",
+        "full_form": "Spinning Beachball of Death"
+    },
+    {
+        "id": "855",
+        "acro": "SBP-2",
+        "full_form": "Serial Bus Protocol 2"
+    },
+    {
+        "id": "856",
+        "acro": "SBU",
+        "full_form": "Standard Build Unit"
+    },
+    {
+        "id": "857",
+        "acro": "SCADA",
+        "full_form": "Supervisory Control And Data Acquisition"
+    },
+    {
+        "id": "858",
+        "acro": "SCID",
+        "full_form": "Source Code in Database"
+    },
+    {
+        "id": "859",
+        "acro": "SCM",
+        "full_form": "Software Configuration Management"
+    },
+    {
+        "id": "860",
+        "acro": "SCP",
+        "full_form": "Secure Copy"
+    },
+    {
+        "id": "861",
+        "acro": "SCPI",
+        "full_form": "Standard Commands for Programmable Instrumentation"
+    },
+    {
+        "id": "862",
+        "acro": "SCSI",
+        "full_form": "Small Computer System Interface"
+    },
+    {
+        "id": "863",
+        "acro": "SD",
+        "full_form": "Secure Digital"
+    },
+    {
+        "id": "864",
+        "acro": "SDDL",
+        "full_form": "Security Descriptor Definition Language"
+    },
+    {
+        "id": "865",
+        "acro": "SDI",
+        "full_form": "Single Document Interface"
+    },
+    {
+        "id": "866",
+        "acro": "SDIO",
+        "full_form": "Secure Digital Input Output"
+    },
+    {
+        "id": "867",
+        "acro": "SDK",
+        "full_form": "Software Development Kit"
+    },
+    {
+        "id": "868",
+        "acro": "SDL",
+        "full_form": "Simple DirectMedia Layer"
+    },
+    {
+        "id": "869",
+        "acro": "SDN",
+        "full_form": "Service Delivery Network"
+    },
+    {
+        "id": "870",
+        "acro": "SDR",
+        "full_form": "Software-Defined Radio"
+    },
+    {
+        "id": "871",
+        "acro": "SDRAM",
+        "full_form": "Synchronous Dynamic Random Access Memory"
+    },
+    {
+        "id": "872",
+        "acro": "SDSL",
+        "full_form": "Symmetric DSL"
+    },
+    {
+        "id": "873",
+        "acro": "SE",
+        "full_form": "Single Ended"
+    },
+    {
+        "id": "874",
+        "acro": "SEAL",
+        "full_form": "Semantics-directed Environment Adaptation Language"
+    },
+    {
+        "id": "875",
+        "acro": "SEI",
+        "full_form": "Software Engineering Institute"
+    },
+    {
+        "id": "876",
+        "acro": "SFTP",
+        "full_form": "Simple File Transfer Protocol"
+    },
+    {
+        "id": "877",
+        "acro": "SFTP",
+        "full_form": "Secure Shell (SSH) File Transfer Protocol"
+    },
+    {
+        "id": "878",
+        "acro": "SGI",
+        "full_form": "Silicon Graphics, Incorporated"
+    },
+    {
+        "id": "879",
+        "acro": "SGML",
+        "full_form": "Standard Generalized Markup Language"
+    },
+    {
+        "id": "880",
+        "acro": "SHA",
+        "full_form": "Secure Hash Algorithm"
+    },
+    {
+        "id": "881",
+        "acro": "SIGCAT",
+        "full_form": "Special Interest Group on CD-ROM Applications and Technology"
+    },
+    {
+        "id": "882",
+        "acro": "SIGGRAPH",
+        "full_form": "Special Interest Group on Graphics"
+    },
+    {
+        "id": "883",
+        "acro": "SIMD",
+        "full_form": "Single Instruction, Multiple Data"
+    },
+    {
+        "id": "884",
+        "acro": "SIMM",
+        "full_form": "Single Inline Memory Module"
+    },
+    {
+        "id": "885",
+        "acro": "SIP",
+        "full_form": "Session Initiation Protocol"
+    },
+    {
+        "id": "886",
+        "acro": "SISD",
+        "full_form": "Single Instruction, Single Data"
+    },
+    {
+        "id": "887",
+        "acro": "SLED",
+        "full_form": "SUSE Linux Enterprise Desktop"
+    },
+    {
+        "id": "888",
+        "acro": "SLES",
+        "full_form": "SUSE Linux Enterprise Server"
+    },
+    {
+        "id": "889",
+        "acro": "SLI",
+        "full_form": "Scalable Link Interface"
+    },
+    {
+        "id": "890",
+        "acro": "SLIP",
+        "full_form": "Serial Line Internet Protocol"
+    },
+    {
+        "id": "891",
+        "acro": "SLM",
+        "full_form": "Service Level Management"
+    },
+    {
+        "id": "892",
+        "acro": "SLOC",
+        "full_form": "Source Lines of Code"
+    },
+    {
+        "id": "893",
+        "acro": "SMA",
+        "full_form": "SubMiniature version A"
+    },
+    {
+        "id": "894",
+        "acro": "SMB",
+        "full_form": "Server Message Block"
+    },
+    {
+        "id": "895",
+        "acro": "SMBIOS",
+        "full_form": "System Management BIOS"
+    },
+    {
+        "id": "896",
+        "acro": "SMC",
+        "full_form": "SMC Networks (company)"
+    },
+    {
+        "id": "897",
+        "acro": "SMIL",
+        "full_form": "Synchronized Multimedia Integration Language"
+    },
+    {
+        "id": "898",
+        "acro": "SMP",
+        "full_form": "Symmetric Multi-Processing"
+    },
+    {
+        "id": "899",
+        "acro": "SMS",
+        "full_form": "Short Message Service"
+    },
+    {
+        "id": "900",
+        "acro": "SMS",
+        "full_form": "System Management Server"
+    },
+    {
+        "id": "901",
+        "acro": "SMT",
+        "full_form": "Simultaneous Multithreading"
+    },
+    {
+        "id": "902",
+        "acro": "SMTP",
+        "full_form": "Simple Mail Transfer Protocol"
+    },
+    {
+        "id": "903",
+        "acro": "SNA",
+        "full_form": "Systems Network Architecture"
+    },
+    {
+        "id": "904",
+        "acro": "SNMP",
+        "full_form": "Simple Network Management Protocol"
+    },
+    {
+        "id": "905",
+        "acro": "SO-DIMM",
+        "full_form": "Small Outline DIMM"
+    },
+    {
+        "id": "906",
+        "acro": "SOA",
+        "full_form": "Service-Oriented Architecture"
+    },
+    {
+        "id": "907",
+        "acro": "SOAP",
+        "full_form": "Simple Object Access Protocol"
+    },
+    {
+        "id": "908",
+        "acro": "SoC",
+        "full_form": "System-on-a-Chip"
+    },
+    {
+        "id": "909",
+        "acro": "SOE",
+        "full_form": "Standard Operating Environment"
+    },
+    {
+        "id": "910",
+        "acro": "SOHO",
+        "full_form": "Small Office\/Home Office"
+    },
+    {
+        "id": "911",
+        "acro": "SOI",
+        "full_form": "Silicon On Insulator"
+    },
+    {
+        "id": "912",
+        "acro": "SP",
+        "full_form": "Service Pack"
+    },
+    {
+        "id": "913",
+        "acro": "SPA",
+        "full_form": "Single Page Application"
+    },
+    {
+        "id": "914",
+        "acro": "SPARC",
+        "full_form": "Scalable Processor Architecture"
+    },
+    {
+        "id": "915",
+        "acro": "SPF",
+        "full_form": "Sender Policy Framework"
+    },
+    {
+        "id": "916",
+        "acro": "SPI",
+        "full_form": "Serial Peripheral Interface"
+    },
+    {
+        "id": "917",
+        "acro": "SPI",
+        "full_form": "Stateful Packet Inspection"
+    },
+    {
+        "id": "918",
+        "acro": "SPMD",
+        "full_form": "Single Program, Multiple Data"
+    },
+    {
+        "id": "919",
+        "acro": "SQL",
+        "full_form": "Structured Query Language"
+    },
+    {
+        "id": "920",
+        "acro": "SRAM",
+        "full_form": "Static Random Access Memory"
+    },
+    {
+        "id": "921",
+        "acro": "SSD",
+        "full_form": "Solid State Drive"
+    },
+    {
+        "id": "922",
+        "acro": "SSE",
+        "full_form": "Streaming SIMD Extensions"
+    },
+    {
+        "id": "923",
+        "acro": "SSH",
+        "full_form": "Secure Shell"
+    },
+    {
+        "id": "924",
+        "acro": "SSI",
+        "full_form": "Small Scale Integration"
+    },
+    {
+        "id": "925",
+        "acro": "SSI",
+        "full_form": "Single System Image"
+    },
+    {
+        "id": "926",
+        "acro": "SSI",
+        "full_form": "Server Side Includes"
+    },
+    {
+        "id": "927",
+        "acro": "SSID",
+        "full_form": "Service Set Identifier"
+    },
+    {
+        "id": "928",
+        "acro": "SSL",
+        "full_form": "Secure Socket Layer"
+    },
+    {
+        "id": "929",
+        "acro": "SSP",
+        "full_form": "Supplementary Special-purpose Plane"
+    },
+    {
+        "id": "930",
+        "acro": "SSSE",
+        "full_form": "Supplementary Streaming SIMD Extensions"
+    },
+    {
+        "id": "931",
+        "acro": "su",
+        "full_form": "superuser"
+    },
+    {
+        "id": "932",
+        "acro": "SUS",
+        "full_form": "Single UNIX Specification"
+    },
+    {
+        "id": "933",
+        "acro": "SVC",
+        "full_form": "Scalable Video Coding"
+    },
+    {
+        "id": "934",
+        "acro": "SVD",
+        "full_form": "Structured VLSI Design"
+    },
+    {
+        "id": "935",
+        "acro": "SVG",
+        "full_form": "Scalable Vector Graphics"
+    },
+    {
+        "id": "936",
+        "acro": "SVGA",
+        "full_form": "Super Video Graphics Array"
+    },
+    {
+        "id": "937",
+        "acro": "SWT",
+        "full_form": "Standard Widget Toolkit"
+    },
+    {
+        "id": "938",
+        "acro": "Sysop",
+        "full_form": "System operator"
+    },
+    {
+        "id": "939",
+        "acro": "TAO",
+        "full_form": "Track-At-Once"
+    },
+    {
+        "id": "940",
+        "acro": "TB",
+        "full_form": "Terabyte"
+    },
+    {
+        "id": "941",
+        "acro": "Tcl",
+        "full_form": "Tool Command Language"
+    },
+    {
+        "id": "942",
+        "acro": "TCP",
+        "full_form": "Transmission Control Protocol"
+    },
+    {
+        "id": "943",
+        "acro": "TCP\/IP",
+        "full_form": "Transmission Control Protocol\/Internet Protocol"
+    },
+    {
+        "id": "944",
+        "acro": "TCU",
+        "full_form": "Telecommunication Control Unit"
+    },
+    {
+        "id": "945",
+        "acro": "TDMA",
+        "full_form": "Time Division Multiple Access"
+    },
+    {
+        "id": "946",
+        "acro": "temp",
+        "full_form": "temporary (variable, file, directory, etc.)"
+    },
+    {
+        "id": "947",
+        "acro": "TFT",
+        "full_form": "Thin Film Transistor"
+    },
+    {
+        "id": "948",
+        "acro": "TI",
+        "full_form": "Texas Instruments"
+    },
+    {
+        "id": "949",
+        "acro": "TLA",
+        "full_form": "Three-Letter Acronym"
+    },
+    {
+        "id": "950",
+        "acro": "TLD",
+        "full_form": "Top-Level Domain"
+    },
+    {
+        "id": "951",
+        "acro": "TLS",
+        "full_form": "Transport Layer Security"
+    },
+    {
+        "id": "952",
+        "acro": "tmp",
+        "full_form": "temporary (variable, file, directory, etc.)"
+    },
+    {
+        "id": "953",
+        "acro": "TNC",
+        "full_form": "Terminal Node Controller"
+    },
+    {
+        "id": "954",
+        "acro": "TSO",
+        "full_form": "Time Sharing Option"
+    },
+    {
+        "id": "955",
+        "acro": "TSP",
+        "full_form": "Traveling Salesman Problem"
+    },
+    {
+        "id": "956",
+        "acro": "TSR",
+        "full_form": "Terminate and Stay Resident"
+    },
+    {
+        "id": "957",
+        "acro": "TTA",
+        "full_form": "True Tap Audio"
+    },
+    {
+        "id": "958",
+        "acro": "TTF",
+        "full_form": "TrueType Font"
+    },
+    {
+        "id": "959",
+        "acro": "TTL",
+        "full_form": "Transistor-Transistor Logic"
+    },
+    {
+        "id": "960",
+        "acro": "TTL",
+        "full_form": "Time To Live"
+    },
+    {
+        "id": "961",
+        "acro": "TTS",
+        "full_form": "Text-to-Speech"
+    },
+    {
+        "id": "962",
+        "acro": "TTY",
+        "full_form": "Teletype"
+    },
+    {
+        "id": "963",
+        "acro": "TUCOWS",
+        "full_form": "The Ultimate Collection of Winsock Software"
+    },
+    {
+        "id": "964",
+        "acro": "TUG",
+        "full_form": "TeX Users Group"
+    },
+    {
+        "id": "965",
+        "acro": "UAAG",
+        "full_form": "User Agent Accessibility Guidelines"
+    },
+    {
+        "id": "966",
+        "acro": "UAC",
+        "full_form": "User Account Control"
+    },
+    {
+        "id": "967",
+        "acro": "UART",
+        "full_form": "Universal Asynchronous Receiver Transmitter"
+    },
+    {
+        "id": "968",
+        "acro": "UAT",
+        "full_form": "User Acceptance Testing"
+    },
+    {
+        "id": "969",
+        "acro": "UCS",
+        "full_form": "Universal Character Set"
+    },
+    {
+        "id": "970",
+        "acro": "UDDI",
+        "full_form": "Universal Description, Discovery, and Integration"
+    },
+    {
+        "id": "971",
+        "acro": "UDMA",
+        "full_form": "Ultra DMA"
+    },
+    {
+        "id": "972",
+        "acro": "UDP",
+        "full_form": "User Datagram Protocol"
+    },
+    {
+        "id": "973",
+        "acro": "UE",
+        "full_form": "User Experience"
+    },
+    {
+        "id": "974",
+        "acro": "UEFI",
+        "full_form": "Unified Extensible Firmware Interface"
+    },
+    {
+        "id": "975",
+        "acro": "UHF",
+        "full_form": "Ultra High Frequency"
+    },
+    {
+        "id": "976",
+        "acro": "UI",
+        "full_form": "User Interface"
+    },
+    {
+        "id": "977",
+        "acro": "UL",
+        "full_form": "Upload"
+    },
+    {
+        "id": "978",
+        "acro": "ULA",
+        "full_form": "Uncommitted Logic Array"
+    },
+    {
+        "id": "979",
+        "acro": "UMA",
+        "full_form": "Upper Memory Area"
+    },
+    {
+        "id": "980",
+        "acro": "UMB",
+        "full_form": "Upper Memory Block"
+    },
+    {
+        "id": "981",
+        "acro": "UML",
+        "full_form": "Unified Modeling Language"
+    },
+    {
+        "id": "982",
+        "acro": "UML",
+        "full_form": "User-Mode Linux"
+    },
+    {
+        "id": "983",
+        "acro": "UMPC",
+        "full_form": "Ultra-Mobile Personal Computer"
+    },
+    {
+        "id": "984",
+        "acro": "UNC",
+        "full_form": "Universal Naming Convention"
+    },
+    {
+        "id": "985",
+        "acro": "UPS",
+        "full_form": "Uninterruptible Power Supply"
+    },
+    {
+        "id": "986",
+        "acro": "URI",
+        "full_form": "Uniform Resource Identifier"
+    },
+    {
+        "id": "987",
+        "acro": "URL",
+        "full_form": "Uniform Resource Locator"
+    },
+    {
+        "id": "988",
+        "acro": "URN",
+        "full_form": "Uniform Resource Name"
+    },
+    {
+        "id": "989",
+        "acro": "USB",
+        "full_form": "Universal Serial Bus"
+    },
+    {
+        "id": "990",
+        "acro": "usr",
+        "full_form": "user"
+    },
+    {
+        "id": "991",
+        "acro": "UTC",
+        "full_form": "Coordinated Universal Time"
+    },
+    {
+        "id": "992",
+        "acro": "UTF",
+        "full_form": "Unicode Transformation Format"
+    },
+    {
+        "id": "993",
+        "acro": "UUCP",
+        "full_form": "Unix to Unix Copy"
+    },
+    {
+        "id": "994",
+        "acro": "UUID",
+        "full_form": "Universally Unique Identifier"
+    },
+    {
+        "id": "995",
+        "acro": "UVC",
+        "full_form": "Universal Virtual Computer"
+    },
+    {
+        "id": "996",
+        "acro": "var",
+        "full_form": "variable"
+    },
+    {
+        "id": "997",
+        "acro": "VAX",
+        "full_form": "Virtual Address eXtension"
+    },
+    {
+        "id": "998",
+        "acro": "VB",
+        "full_form": "Visual Basic"
+    },
+    {
+        "id": "999",
+        "acro": "VBA",
+        "full_form": "Visual Basic for Applications"
+    },
+    {
+        "id": "1000",
+        "acro": "VBS",
+        "full_form": "Visual Basic Script"
+    },
+    {
+        "id": "1001",
+        "acro": "VCPI",
+        "full_form": "Virtual Control Program Interface"
+    },
+    {
+        "id": "1002",
+        "acro": "VESA",
+        "full_form": "Video Electronics Standards Association"
+    },
+    {
+        "id": "1003",
+        "acro": "VFAT",
+        "full_form": "Virtual FAT"
+    },
+    {
+        "id": "1004",
+        "acro": "VFS",
+        "full_form": "Virtual File System"
+    },
+    {
+        "id": "1005",
+        "acro": "VG",
+        "full_form": "Volume Group"
+    },
+    {
+        "id": "1006",
+        "acro": "VGA",
+        "full_form": "Video Graphics Array"
+    },
+    {
+        "id": "1007",
+        "acro": "VGCT",
+        "full_form": "Video Graphics Character Table"
+    },
+    {
+        "id": "1008",
+        "acro": "VHF",
+        "full_form": "Very High Frequency"
+    },
+    {
+        "id": "1009",
+        "acro": "VLAN",
+        "full_form": "Virtual Local Area Network"
+    },
+    {
+        "id": "1010",
+        "acro": "VLB",
+        "full_form": "Vesa Local Bus"
+    },
+    {
+        "id": "1011",
+        "acro": "VLF",
+        "full_form": "Very Low Frequency"
+    },
+    {
+        "id": "1012",
+        "acro": "VLIW",
+        "full_form": "Very Long Instruction Word"
+    },
+    {
+        "id": "1013",
+        "acro": "VLSI",
+        "full_form": "Very-Large-Scale Integration"
+    },
+    {
+        "id": "1014",
+        "acro": "VLSM",
+        "full_form": "Variable Length Subnet Mask"
+    },
+    {
+        "id": "1015",
+        "acro": "VM",
+        "full_form": "Virtual Machine"
+    },
+    {
+        "id": "1016",
+        "acro": "VM",
+        "full_form": "Virtual Memory"
+    },
+    {
+        "id": "1017",
+        "acro": "VOD",
+        "full_form": "Video On Demand"
+    },
+    {
+        "id": "1018",
+        "acro": "VoIP",
+        "full_form": "Voice over IP"
+    },
+    {
+        "id": "1019",
+        "acro": "VPN",
+        "full_form": "Virtual Private Network"
+    },
+    {
+        "id": "1020",
+        "acro": "VPU",
+        "full_form": "Visual Processing Unit"
+    },
+    {
+        "id": "1021",
+        "acro": "VR",
+        "full_form": "Virtual Reality"
+    },
+    {
+        "id": "1022",
+        "acro": "VRML",
+        "full_form": "Virtual Reality Modeling Language"
+    },
+    {
+        "id": "1023",
+        "acro": "VSAM",
+        "full_form": "Virtual Storage Access Method"
+    },
+    {
+        "id": "1024",
+        "acro": "VSAT",
+        "full_form": "Very Small Aperture Terminal"
+    },
+    {
+        "id": "1025",
+        "acro": "VT",
+        "full_form": "Video Terminal?"
+    },
+    {
+        "id": "1026",
+        "acro": "VTAM",
+        "full_form": "Virtual Telecommunications Access Method"
+    },
+    {
+        "id": "1027",
+        "acro": "W3C",
+        "full_form": "World Wide Web Consortium"
+    },
+    {
+        "id": "1028",
+        "acro": "WAFS",
+        "full_form": "Wide Area File Services"
+    },
+    {
+        "id": "1029",
+        "acro": "WAI",
+        "full_form": "Web Accessibility Initiative"
+    },
+    {
+        "id": "1030",
+        "acro": "WAIS",
+        "full_form": "Wide Area Information Server"
+    },
+    {
+        "id": "1031",
+        "acro": "WAN",
+        "full_form": "Wide Area Network"
+    },
+    {
+        "id": "1032",
+        "acro": "WAP",
+        "full_form": "Wireless Application Protocol"
+    },
+    {
+        "id": "1033",
+        "acro": "WAP",
+        "full_form": "Wireless Access Point"
+    },
+    {
+        "id": "1034",
+        "acro": "WAV",
+        "full_form": "WAVEform audio format"
+    },
+    {
+        "id": "1035",
+        "acro": "WBEM",
+        "full_form": "Web-Based Enterprise Management"
+    },
+    {
+        "id": "1036",
+        "acro": "WCAG",
+        "full_form": "Web Content Accessibility Guidelines"
+    },
+    {
+        "id": "1037",
+        "acro": "WCF",
+        "full_form": "Windows Communication Foundation"
+    },
+    {
+        "id": "1038",
+        "acro": "WDM",
+        "full_form": "Wavelength Division Multiplexing"
+    },
+    {
+        "id": "1039",
+        "acro": "WebDAV",
+        "full_form": "WWW Distributed Authoring and Versioning"
+    },
+    {
+        "id": "1040",
+        "acro": "WEP",
+        "full_form": "Wired Equivalent Privacy"
+    },
+    {
+        "id": "1041",
+        "acro": "WFI",
+        "full_form": "Wait For Interrupt"
+    },
+    {
+        "id": "1042",
+        "acro": "Wi-Fi",
+        "full_form": "Wireless Fidelity"
+    },
+    {
+        "id": "1043",
+        "acro": "WiMAX",
+        "full_form": "Worldwide Interoperability for Microwave Access"
+    },
+    {
+        "id": "1044",
+        "acro": "WinFS",
+        "full_form": "Windows Future Storage"
+    },
+    {
+        "id": "1045",
+        "acro": "WINS",
+        "full_form": "Windows Internet Naming Service"
+    },
+    {
+        "id": "1046",
+        "acro": "WLAN",
+        "full_form": "Wireless Local Area Network"
+    },
+    {
+        "id": "1047",
+        "acro": "WMA",
+        "full_form": "Windows Media Audio"
+    },
+    {
+        "id": "1048",
+        "acro": "WMV",
+        "full_form": "Windows Media Video"
+    },
+    {
+        "id": "1049",
+        "acro": "WOL",
+        "full_form": "Wake-on-LAN"
+    },
+    {
+        "id": "1050",
+        "acro": "WOM",
+        "full_form": "Wake-on-Modem"
+    },
+    {
+        "id": "1051",
+        "acro": "WOR",
+        "full_form": "Wake-on-Ring"
+    },
+    {
+        "id": "1052",
+        "acro": "WPA",
+        "full_form": "Wi-Fi Protected Access"
+    },
+    {
+        "id": "1053",
+        "acro": "WPAN",
+        "full_form": "Wireless Personal Area Network"
+    },
+    {
+        "id": "1054",
+        "acro": "WPF",
+        "full_form": "Windows Presentation Foundation"
+    },
+    {
+        "id": "1055",
+        "acro": "WSDL",
+        "full_form": "Web Services Description Language"
+    },
+    {
+        "id": "1056",
+        "acro": "WSFL",
+        "full_form": "Web Services Flow Language"
+    },
+    {
+        "id": "1057",
+        "acro": "WUSB",
+        "full_form": "Wireless Universal Serial Bus"
+    },
+    {
+        "id": "1058",
+        "acro": "WWAN",
+        "full_form": "Wireless Wide Area Network"
+    },
+    {
+        "id": "1059",
+        "acro": "WWID",
+        "full_form": "World Wide Identifier"
+    },
+    {
+        "id": "1060",
+        "acro": "WWN",
+        "full_form": "World Wide Name"
+    },
+    {
+        "id": "1061",
+        "acro": "WWW",
+        "full_form": "World Wide Web"
+    },
+    {
+        "id": "1062",
+        "acro": "WYSIWYG",
+        "full_form": "What You See Is What You Get"
+    },
+    {
+        "id": "1063",
+        "acro": "WZC",
+        "full_form": "Wireless Zero Configuration"
+    },
+    {
+        "id": "1064",
+        "acro": "XAG",
+        "full_form": "XML Accessibility Guidelines"
+    },
+    {
+        "id": "1065",
+        "acro": "XAML",
+        "full_form": "eXtensible Application Markup Language"
+    },
+    {
+        "id": "1066",
+        "acro": "XCBL",
+        "full_form": "XML Common Business Library"
+    },
+    {
+        "id": "1067",
+        "acro": "XDM",
+        "full_form": "X Window Display Manager"
+    },
+    {
+        "id": "1068",
+        "acro": "XDMCP",
+        "full_form": "X Display Manager Control Protocol"
+    },
+    {
+        "id": "1069",
+        "acro": "XHTML",
+        "full_form": "eXtensible Hypertext Markup Language"
+    },
+    {
+        "id": "1070",
+        "acro": "XILP",
+        "full_form": "XILP Internet Links People"
+    },
+    {
+        "id": "1071",
+        "acro": "XML",
+        "full_form": "eXtensible Markup Language"
+    },
+    {
+        "id": "1072",
+        "acro": "XMMS",
+        "full_form": "X Multimedia System"
+    },
+    {
+        "id": "1073",
+        "acro": "XMPP",
+        "full_form": "eXtensible Messaging and Presence Protocol"
+    },
+    {
+        "id": "1074",
+        "acro": "XMS",
+        "full_form": "Extended Memory Specification"
+    },
+    {
+        "id": "1075",
+        "acro": "XNS",
+        "full_form": "Xerox Network Services"
+    },
+    {
+        "id": "1076",
+        "acro": "XP",
+        "full_form": "Extreme Programming"
+    },
+    {
+        "id": "1077",
+        "acro": "XP",
+        "full_form": "Microsoft Windows XP"
+    },
+    {
+        "id": "1078",
+        "acro": "XPCOM",
+        "full_form": "Cross Platform Component Object Model"
+    },
+    {
+        "id": "1079",
+        "acro": "XPI",
+        "full_form": "Cross Platform Installer"
+    },
+    {
+        "id": "1080",
+        "acro": "XPIDL",
+        "full_form": "Cross Platform IDL"
+    },
+    {
+        "id": "1081",
+        "acro": "XSD",
+        "full_form": "XML Schema Definition"
+    },
+    {
+        "id": "1082",
+        "acro": "XSL",
+        "full_form": "eXtensible Stylesheet Language"
+    },
+    {
+        "id": "1083",
+        "acro": "XSL-FO",
+        "full_form": "eXtensible Stylesheet Language Formatting Objects"
+    },
+    {
+        "id": "1084",
+        "acro": "XSLT",
+        "full_form": "eXtensible Stylesheet Language Transformations"
+    },
+    {
+        "id": "1085",
+        "acro": "XSS",
+        "full_form": "Cross-Site Scripting"
+    },
+    {
+        "id": "1086",
+        "acro": "XTF",
+        "full_form": "Extensible Tag Framework"
+    },
+    {
+        "id": "1087",
+        "acro": "XUL",
+        "full_form": "XML User Interface Language"
+    },
+    {
+        "id": "1088",
+        "acro": "Y2K",
+        "full_form": "Year Two Thousand"
+    },
+    {
+        "id": "1089",
+        "acro": "YACC",
+        "full_form": "Yet Another Compiler Compiler"
+    },
+    {
+        "id": "1090",
+        "acro": "YAML",
+        "full_form": "YAML Aint Markup Language"
+    },
+    {
+        "id": "1091",
+        "acro": "YAST",
+        "full_form": "Yet Another Setup Tool"
+    },
+    {
+        "id": "1092",
+        "acro": "ZCAV",
+        "full_form": "Zone Constant Angular Velocity"
+    },
+    {
+        "id": "1093",
+        "acro": "ZCS",
+        "full_form": "Zero Code Suppression"
+    },
+    {
+        "id": "1094",
+        "acro": "ZIF",
+        "full_form": "Zero Insertion Force"
+    },
+    {
+        "id": "1095",
+        "acro": "ZIFS",
+        "full_form": "Zero Insertion Force Socket"
+    },
+    {
+        "id": "1096",
+        "acro": "ZISC",
+        "full_form": "Zero Instruction Set Computer"
+    },
+    {
+        "id": "1097",
+        "acro": "ZMA",
+        "full_form": "Zone Multicast Address"
+    },
+    {
+        "id": "1098",
+        "acro": "ZOPE",
+        "full_form": "Z Object Publishing Environment"
+    }
+]
+
+
+
+
+} 
