@@ -1,6 +1,6 @@
 {
   "jsonShowUpdate": "true",
-  "jsonShowHeaderUpdate": "false",
+  "jsonShowHeaderUpdate": "true",
   "jsonUpdateAppName": "MyApp",
   "jsonUpdateNewVersionCode": "142",
   "jsonUpdateNewVersionName": "1.4.2",
