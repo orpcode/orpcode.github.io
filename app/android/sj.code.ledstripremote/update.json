@@ -8,5 +8,5 @@
   "jsonUpdateText": "A new version of the app is ready to install.",
   "jsonUpdateWhatsNew": "- Bug fixes\n- Performance improvements",
   "jsonUpdateButtonText": "Update now",
-  "jsonUpdateLink": "https://example.com/download/app_v2.0.0.apk"
+  "jsonUpdateLink": "https://play.google.com/store/apps/details?id=sj.code.ledstripremote"
 }
