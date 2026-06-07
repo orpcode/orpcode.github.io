@@ -2,11 +2,11 @@
   "jsonShowUpdate": "true",
   "jsonShowHeaderUpdate": "true",
   "jsonUpdateAppName": "MyApp",
-  "jsonUpdateNewVersionCode": "143",
+  "jsonUpdateNewVersionCode": "144",
   "jsonUpdateNewVersionName": "1.4.3",
   "jsonUpdateTitle": "New Update Available (1.4.3)",
   "jsonUpdateText": "A new version of the app is ready to install.",
   "jsonUpdateWhatsNew": "- Bug fixes\n- Performance improvements",
   "jsonUpdateButtonText": "Update now",
-  "jsonUpdateLink": "https://play.google.com/store/apps/details?id=sj.code.ledstripremote"
+  "jsonUpdateLink": ""
 }
