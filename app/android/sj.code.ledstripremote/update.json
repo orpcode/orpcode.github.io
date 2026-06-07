@@ -1,12 +1,12 @@
 {
-  "showUpdate": "true",
-  "showHeaderUpdate": "false",
-  "updateAppName": "MyApp",
-  "updateNewVersionCode": "142",
-  "updateNewVersionName": "1.4.2",
-  "updateTitle": "New Update Available (1.4.2)",
-  "updateText": "A new version of the app is ready to install.",
-  "updateWhatsNew": "- Bug fixes\n- Performance improvements",
-  "updateButtonText": "Update now",
-  "updateLink": "https://example.com/download/app_v2.0.0.apk"
+  "jsonShowUpdate": "true",
+  "jsonShowHeaderUpdate": "false",
+  "jsonUpdateAppName": "MyApp",
+  "jsonUpdateNewVersionCode": "142",
+  "jsonUpdateNewVersionName": "1.4.2",
+  "jsonUpdateTitle": "New Update Available (1.4.2)",
+  "jsonUpdateText": "A new version of the app is ready to install.",
+  "jsonUpdateWhatsNew": "- Bug fixes\n- Performance improvements",
+  "jsonUpdateButtonText": "Update now",
+  "jsonUpdateLink": "https://example.com/download/app_v2.0.0.apk"
 }
