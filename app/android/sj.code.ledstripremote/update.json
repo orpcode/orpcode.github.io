@@ -4,7 +4,7 @@
   "jsonUpdateAppName": "MyAppX",
   "jsonUpdateNewVersionCode": "144",
   "jsonUpdateNewVersionName": "1.4.4",
-  "jsonUpdateTitle": "New Update Available (1.4.4)",
+  "jsonUpdateTitle": "New App Update Available (1.4.4)",
   "jsonUpdateText": "A new version of the app is ready to install.",
   "jsonUpdateWhatsNew": "- Bug fixes\n- Performance improvements",
   "jsonUpdateButtonText": "Update now",
