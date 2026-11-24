@@ -20,42 +20,74 @@
       align-items: center;
       justify-content: center;
       min-height: 100vh;
-      background: #0f172a;
-      background-image: radial-gradient(circle at 50% 50%, #1e293b 0%, #0f172a 70%);
+      background: #050b07;
+      background-image: radial-gradient(circle at 50% 40%, #0d2818 0%, #050b07 65%);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      color: #e2e8f0;
+      color: #d1fae5;
       text-align: center;
       padding: 24px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* subtle tech grid overlay */
+    body::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(34, 197, 94, 0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(34, 197, 94, 0.06) 1px, transparent 1px);
+      background-size: 48px 48px;
+      -webkit-mask-image: radial-gradient(circle at 50% 40%, #000 0%, transparent 75%);
+      mask-image: radial-gradient(circle at 50% 40%, #000 0%, transparent 75%);
+      pointer-events: none;
     }
 
     .container {
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 16px;
+      gap: 18px;
+      position: relative;
+      z-index: 1;
     }
 
     h1 {
-      font-size: clamp(2.5rem, 10vw, 5rem);
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      background: linear-gradient(90deg, #38bdf8, #a78bfa);
+      font-size: clamp(2.8rem, 11vw, 5.5rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: linear-gradient(90deg, #22c55e, #86efac, #10b981);
       -webkit-background-clip: text;
       background-clip: text;
       color: transparent;
+      text-shadow: 0 0 40px rgba(34, 197, 94, 0.25);
     }
 
     p {
       font-size: clamp(0.95rem, 2.5vw, 1.15rem);
-      color: #94a3b8;
+      color: #86efac;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
       max-width: 420px;
       line-height: 1.6;
+      opacity: 0.9;
+    }
+
+    /* thin glowing accent line under the text */
+    .accent {
+      width: 80px;
+      height: 3px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, transparent, #22c55e, transparent);
+      box-shadow: 0 0 14px rgba(34, 197, 94, 0.7);
     }
   </style>
 </head>
 <body>
   <main class="container">
     <h1>OrpCode</h1>
+    <div class="accent"></div>
     <p>Simple code. Clean results.</p>
   </main>
 </body>
